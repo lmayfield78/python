@@ -1,0 +1,72 @@
+1500327851888	geckodriver	INFO	Listening on 127.0.0.1:57339
+1500327853469	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500327856802	Marionette	INFO	Listening on port 57345
+1500327856903	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500327857056	Marionette	DEBUG	loaded listener.js
+1500327857089	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 16:44:17.138 plugin-container[36710:3870737] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 16:44:17.140 plugin-container[36710:3870737] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 16:44:17.140 plugin-container[36710:3870737] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1500327857530	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500327857530	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500327858614	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://shop.seniorityhealth.com/"
+1500327859677	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://shop.seniorityhealth.com/"
+1500327859683	Marionette	DEBUG	Received DOM event "pageshow" for "https://shop.seniorityhealth.com/"
+1500327859734	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1500327859864	Marionette	DEBUG	Received DOM event "pageshow" for "https://shop.seniorityhealth.com/"
+1500327860728	Marionette	INFO	New connections will no longer be accepted
+1500328182611	geckodriver	INFO	Listening on 127.0.0.1:57711
+1500328183716	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500328185684	Marionette	INFO	Listening on port 57717
+1500328185774	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500328185904	Marionette	DEBUG	loaded listener.js
+1500328185931	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 16:49:45.982 plugin-container[36744:3875721] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 16:49:45.985 plugin-container[36744:3875721] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9123, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 16:49:45.985 plugin-container[36744:3875721] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1500328186168	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500328186168	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500328187027	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://shop.seniorityhealth.com/"
+1500328188092	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://shop.seniorityhealth.com/"
+1500328188098	Marionette	DEBUG	Received DOM event "pageshow" for "https://shop.seniorityhealth.com/"
+1500328188136	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1500328188223	Marionette	DEBUG	Received DOM event "pageshow" for "https://shop.seniorityhealth.com/"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500328198981	Marionette	INFO	New connections will no longer be accepted
+1500328214756	geckodriver	INFO	Listening on 127.0.0.1:57827
+1500328215855	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500328217950	Marionette	INFO	Listening on port 57833
+1500328218030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500328218182	Marionette	DEBUG	loaded listener.js
+1500328218211	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-17 16:50:18.246 plugin-container[36755:3876705] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 16:50:18.247 plugin-container[36755:3876705] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-17 16:50:18.247 plugin-container[36755:3876705] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1500328218456	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500328218456	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500328219457	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://shop.seniorityhealth.com/"
+1500328220455	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://shop.seniorityhealth.com/"
+1500328220461	Marionette	DEBUG	Received DOM event "pageshow" for "https://shop.seniorityhealth.com/"
+1500328220495	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1500328220570	Marionette	DEBUG	Received DOM event "pageshow" for "https://shop.seniorityhealth.com/"
+1500328221515	Marionette	DEBUG	Received DOM event "beforeunload" for "https://shop.seniorityhealth.com/"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500328221719	Marionette	DEBUG	Received DOM event "pagehide" for "https://shop.seniorityhealth.com/"
+1500328221720	Marionette	DEBUG	Received DOM event "unload" for "https://shop.seniorityhealth.com/"
+1500328221857	Marionette	DEBUG	Received DOM event "pageshow" for "about:blank"
+1500328222035	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1500328222234	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://shop.seniorityhealth.com/products/test-reload"
+1500328222242	Marionette	DEBUG	Received DOM event "pageshow" for "https://shop.seniorityhealth.com/products/test-reload"
+1500328222354	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://shop.seniorityhealth.com/products/test-reload"
+1500328222420	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1500328222639	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/tHtAJkP7QTU?rel=0&controls=0&showinfo=0"
+1500328222859	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/tHtAJkP7QTU?rel=0&controls=0&showinfo=0"
+1500328222861	Marionette	DEBUG	Received DOM event "pageshow" for "https://shop.seniorityhealth.com/products/test-reload"
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1500328232875	Marionette	INFO	New connections will no longer be accepted
