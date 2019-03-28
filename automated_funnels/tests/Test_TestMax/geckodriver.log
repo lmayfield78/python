@@ -1,0 +1,1031 @@
+1498667535082	geckodriver	INFO	Listening on 127.0.0.1:50220
+1498667536452	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498667540071	Marionette	INFO	Listening on port 50229
+1498667540154	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498667540401	Marionette	DEBUG	loaded listener.js
+2017-06-28 11:32:20.478 plugin-container[3369:326037] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x923f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-28 11:32:20.481 plugin-container[3369:326037] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x951f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-28 11:32:20.481 plugin-container[3369:326037] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1498667675769	geckodriver	INFO	Listening on 127.0.0.1:50360
+1498667676838	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498667678363	Marionette	INFO	Listening on port 50369
+1498667678409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498667678571	Marionette	DEBUG	loaded listener.js
+2017-06-28 11:34:38.650 plugin-container[3396:326995] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-28 11:34:38.653 plugin-container[3396:326995] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x510f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-28 11:34:38.653 plugin-container[3396:326995] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1498667679090	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498667679538	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498667679538	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498667680647	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498667681374	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498667681859	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1498667681979	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1498667681998	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1498667682428	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1498667751993	Marionette	INFO	Ceased listening
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498668437627	geckodriver	INFO	Listening on 127.0.0.1:50902
+1498668438699	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498668440449	Marionette	INFO	Listening on port 50911
+1498668440520	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498668440679	Marionette	DEBUG	loaded listener.js
+2017-06-28 11:47:20.751 plugin-container[3442:331933] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-28 11:47:20.755 plugin-container[3442:331933] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-28 11:47:20.755 plugin-container[3442:331933] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1498668441219	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498668441645	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498668441645	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498668442398	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498668443171	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498668443639	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1498668443741	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1498668443808	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1498668474990	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498668475285	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498668477766	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498668478028	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498668478331	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498670118065	Marionette	INFO	Ceased listening
+1498670676829	geckodriver	INFO	Listening on 127.0.0.1:52276
+1498670677945	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498670679767	Marionette	INFO	Listening on port 52285
+1498670679829	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498670679984	Marionette	DEBUG	loaded listener.js
+2017-06-28 12:24:40.056 plugin-container[3604:345243] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-28 12:24:40.059 plugin-container[3604:345243] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5107, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-28 12:24:40.059 plugin-container[3604:345243] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1498670680535	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498670681034	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498670681034	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498670681808	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498670682579	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498670683039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1498670683190	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1498670683199	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1498670684009	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1498670684299	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498670686974	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498670687242	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498670687550	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1498672500152	geckodriver	INFO	Listening on 127.0.0.1:53053
+1498672501222	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498672502860	Marionette	INFO	Listening on port 53062
+1498672502918	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498672503082	Marionette	DEBUG	loaded listener.js
+2017-06-28 12:55:03.153 plugin-container[3668:354960] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-28 12:55:03.156 plugin-container[3668:354960] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e27, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-28 12:55:03.156 plugin-container[3668:354960] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1498672503647	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498672504099	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498672504099	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498672505742	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498672506696	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498672507146	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1498672507238	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1498672507248	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1498672508135	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498672508391	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498672508563	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498672508564	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498672508922	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1498672508956	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1498672509580	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1498672512261	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498672512523	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498672512825	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498672631203	geckodriver	INFO	Listening on 127.0.0.1:53256
+1498672632274	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1498672633884	Marionette	INFO	Listening on port 53262
+1498672633948	Marionette	WARN	TLS certificate errors will be ignored for this session
+1498672634111	Marionette	DEBUG	loaded listener.js
+2017-06-28 12:57:14.184 plugin-container[3697:355867] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-28 12:57:14.187 plugin-container[3697:355867] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-28 12:57:14.187 plugin-container[3697:355867] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1498672634661	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1498672635096	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1498672635097	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1498672637443	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498672637752	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498672638342	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1498672638666	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1498672638697	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1498672639601	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498672639775	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498672639912	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498672640167	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498672640168	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1498672640540	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1498672640541	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1498672640577	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1498672641531	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1498672644187	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498672644470	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1498672644624	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1498672646736	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1498672646737	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1498672647069	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1498672647813	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/158"
+1498672648292	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=2f4e6a5b8f1ce62c64a8e3ae353672d8"
+1498672648295	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=2f4e6a5b8f1ce62c64a8e3ae353672d8"
+1498672648719	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/158"
+1498672648722	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/158"
+1498672649369	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/158"
+1498672649375	Marionette	INFO	New connections will no longer be accepted
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1498676258057	Marionette	INFO	Ceased listening
+1498676259957	Marionette	INFO	Ceased listening
+1498694114867	Marionette	INFO	Ceased listening
+1500583568654	geckodriver	INFO	Listening on 127.0.0.1:62605
+1500583569963	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500583572268	Marionette	INFO	Listening on port 62611
+1500583572334	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500583572503	Marionette	DEBUG	loaded listener.js
+2017-07-20 15:46:12.576 plugin-container[49603:5488520] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-20 15:46:12.578 plugin-container[49603:5488520] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x920b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-20 15:46:12.578 plugin-container[49603:5488520] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1500583573253	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1500583573726	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500583573727	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500583574719	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500583575392	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500583575889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1500583576023	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1500583576030	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1500583577263	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500583577602	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500583577859	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500583577860	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500583578216	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1500583578252	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500583578296	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500583581067	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500583581350	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500583581521	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500583583785	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500583583786	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500583584266	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1500583584267	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1500583584711	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/158"
+1500583585283	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=337f2fc0498987839039cff612b856f7"
+1500583585286	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=337f2fc0498987839039cff612b856f7"
+1500583585355	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/158"
+1500583585357	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/158"
+1500583585892	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/158"
+1500583588234	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500583588602	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500583588882	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500583598974	Marionette	INFO	New connections will no longer be accepted
+1500583633369	geckodriver	INFO	Listening on 127.0.0.1:62855
+1500583634449	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500583636349	Marionette	INFO	Listening on port 62862
+1500583636453	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500583636632	Marionette	DEBUG	loaded listener.js
+2017-07-20 15:47:16.712 plugin-container[49616:5490116] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-20 15:47:16.714 plugin-container[49616:5490116] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x521b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-20 15:47:16.715 plugin-container[49616:5490116] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1500583637241	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1500583638666	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500583638667	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500583639469	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500583639779	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500583640378	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1500583640540	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1500583640560	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1500583646181	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500583646496	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500583649118	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500583649387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500583649520	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500583651342	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500583651343	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500583652059	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/158"
+1500583652518	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=337f2fc0498987839039cff612b856f7"
+1500583652525	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=337f2fc0498987839039cff612b856f7"
+1500583652668	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/158"
+1500583652670	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/158"
+1500583658974	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/158"
+1500583661338	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500583661710	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500583661999	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500583672075	Marionette	INFO	New connections will no longer be accepted
+1500584676597	geckodriver	INFO	Listening on 127.0.0.1:63835
+1500584676686	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500584678563	Marionette	INFO	Listening on port 63839
+1500584678626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500584678803	Marionette	DEBUG	loaded listener.js
+2017-07-20 16:04:38.876 plugin-container[49700:5506362] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-20 16:04:38.879 plugin-container[49700:5506362] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5207, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-20 16:04:38.879 plugin-container[49700:5506362] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1500584679485	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1500584679908	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500584679909	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500584680699	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500584681658	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500584682147	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1500584682280	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1500584682321	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1500584682931	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1500584683054	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500584683085	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500584683239	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500584683451	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500584683451	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500584683912	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500584683934	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1500584683935	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1500584683936	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1500584684567	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500584687302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500584687576	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500584687732	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500584689391	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500584689391	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500584690093	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/158"
+1500584690675	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=337f2fc0498987839039cff612b856f7"
+1500584690683	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=337f2fc0498987839039cff612b856f7"
+1500584690691	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/158"
+1500584690694	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/158"
+1500584691041	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/158"
+1500584693389	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500584693759	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500584694038	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500584694317	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500584694369	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/special/158"
+1500584699577	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500584709618	Marionette	INFO	New connections will no longer be accepted
+1500585143238	geckodriver	INFO	Listening on 127.0.0.1:64241
+1500585144366	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500585146486	Marionette	INFO	Listening on port 64247
+1500585146563	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500585146722	Marionette	DEBUG	loaded listener.js
+2017-07-20 16:12:26.802 plugin-container[49757:5513415] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-20 16:12:26.805 plugin-container[49757:5513415] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9127, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-20 16:12:26.805 plugin-container[49757:5513415] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1500585147338	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1500585147795	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500585147795	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500585148698	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500585148946	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500585149569	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1500585149737	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1500585149834	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1500585151524	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1500585151839	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500585154513	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500585154776	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500585154939	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500585156608	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500585156609	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500585157539	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/158"
+1500585158006	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=337f2fc0498987839039cff612b856f7"
+1500585158038	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=337f2fc0498987839039cff612b856f7"
+1500585158157	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/158"
+1500585158159	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/158"
+1500585158815	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/158"
+1500585161166	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500585161542	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500585161821	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500585162102	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500585162154	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/special/158"
+1500585166222	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/cart/special/158"
+1500585166222	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/cart/special/158"
+1500585166551	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+1500585166628	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1500585166631	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1500585167071	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.go2cloud.org/SL2QH?adv_sub=0064400000luPytAAE&amount=105"
+1500585167074	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.go2cloud.org/SL2QH?adv_sub=0064400000luPytAAE&amount=105"
+1500585167158	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+1500585167161	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+1500585168772	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+1500585178816	Marionette	INFO	New connections will no longer be accepted
+1500585260026	geckodriver	INFO	Listening on 127.0.0.1:64522
+1500585261134	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1500585263072	Marionette	INFO	Listening on port 64528
+1500585263135	Marionette	WARN	TLS certificate errors will be ignored for this session
+1500585263305	Marionette	DEBUG	loaded listener.js
+2017-07-20 16:14:23.377 plugin-container[49770:5515660] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-20 16:14:23.380 plugin-container[49770:5515660] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f0f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-20 16:14:23.380 plugin-container[49770:5515660] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1500585263892	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1500585264638	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1500585264638	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1500585265847	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500585266654	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500585267088	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1500585267325	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1500585267412	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1500585268040	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500585268369	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500585268577	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500585268578	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1500585268931	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1500585268964	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500585269582	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500585272365	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500585272645	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500585272799	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500585274663	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500585274663	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1500585274968	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1500585275420	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/158"
+1500585275862	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=337f2fc0498987839039cff612b856f7"
+1500585275890	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=337f2fc0498987839039cff612b856f7"
+1500585276010	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/158"
+1500585276012	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/158"
+1500585278740	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/158"
+1500585281092	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500585281461	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500585281777	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500585282083	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1500585282143	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/special/158"
+1500585286039	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/cart/special/158"
+1500585286040	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/cart/special/158"
+1500585286334	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1500585286335	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1500585286378	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+1500585286997	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+1500585287001	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+1500585287388	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.go2cloud.org/SL2QH?adv_sub=0064400000luPytAAE&amount=105"
+1500585287393	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.go2cloud.org/SL2QH?adv_sub=0064400000luPytAAE&amount=105"
+1500585288037	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+1500585298084	Marionette	INFO	New connections will no longer be accepted
+1502297078907	geckodriver	INFO	Listening on 127.0.0.1:54452
+1502297080116	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502297082790	Marionette	INFO	Listening on port 54458
+1502297082860	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502297083034	Marionette	DEBUG	loaded listener.js
+2017-08-09 11:44:43.115 plugin-container[9055:1970410] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-09 11:44:43.117 plugin-container[9055:1970410] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-09 11:44:43.117 plugin-container[9055:1970410] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502297083620	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502297084074	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502297084075	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502297084889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1502297085768	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1502297086158	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1502297086356	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1502297086418	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1502297087033	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1502297087181	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1502297087352	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1502297087558	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1502297087559	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1502297088268	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1502297088292	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1502297088293	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1502297088998	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1502297091750	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502297092028	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502297092175	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1502297093784	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1502297093785	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1502297094800	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/158"
+1502297095298	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=648bf5f4ecfaa32e5250273e337b6859"
+1502297095300	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=648bf5f4ecfaa32e5250273e337b6859"
+1502297095404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/158"
+1502297095406	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/158"
+1502297095975	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/158"
+1502297098322	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502297098708	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502297098996	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502297099298	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502297099361	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/special/158"
+1502297104571	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502297114609	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1502297217584	geckodriver	INFO	Listening on 127.0.0.1:55562
+1502297217670	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502297219525	Marionette	INFO	Listening on port 55566
+1502297219638	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502297219771	Marionette	DEBUG	loaded listener.js
+2017-08-09 11:46:59.847 plugin-container[9074:1972229] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-09 11:46:59.847 plugin-container[9074:1972229] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9027, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-09 11:46:59.847 plugin-container[9074:1972229] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502297220351	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1502297220788	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502297220788	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502297221588	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1502297222476	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1502297222970	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1502297223094	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1502297223128	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/MSRqcXjX5y0?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1502297223944	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1502297224268	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502297226924	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502297227197	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502297227362	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1502297229278	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1502297229278	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1502297231436	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/158"
+1502297231908	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=648bf5f4ecfaa32e5250273e337b6859"
+1502297231911	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=648bf5f4ecfaa32e5250273e337b6859"
+1502297232067	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/158"
+1502297232069	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/158"
+1502297232926	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/158"
+1502297235298	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502297235683	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502297235968	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502297236253	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502297236312	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/special/158"
+1502297240000	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/cart/special/158"
+1502297240001	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/cart/special/158"
+1502297240402	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+1502297240479	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1502297240481	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1502297240482	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1502297240880	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.go2cloud.org/SL2QH?adv_sub=0064400000lvWr7AAE&amount=105"
+1502297240887	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.go2cloud.org/SL2QH?adv_sub=0064400000lvWr7AAE&amount=105"
+1502297240965	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+1502297240968	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+1502297242134	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502311504924	Marionette	INFO	Ceased listening
+1509644673253	geckodriver	INFO	Listening on 127.0.0.1:65374
+1509644674538	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509644674945	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509644675229	Marionette	INFO	Enabled via --marionette
+2017-11-02 12:44:36.132 plugin-container[7964:2039633] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 12:44:36.132 plugin-container[7964:2039633] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f27, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 12:44:36.132 plugin-container[7964:2039633] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1509644676469	Marionette	INFO	Listening on port 65380
+1509644676535	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509644676566	Marionette	DEBUG	Register listener.js for window 2147483649
+1509644677069	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509644677486	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509644677486	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509644678355	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509644679552	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1509644679816	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1509645610584	geckodriver	INFO	Listening on 127.0.0.1:49434
+1509645611663	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509645611857	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509645612132	Marionette	INFO	Enabled via --marionette
+2017-11-02 13:00:12.862 plugin-container[8003:2044675] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 13:00:12.863 plugin-container[8003:2044675] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f47, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 13:00:12.863 plugin-container[8003:2044675] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1509645613291	Marionette	INFO	Listening on port 49440
+1509645613351	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509645613383	Marionette	DEBUG	Register listener.js for window 2147483649
+1509645613931	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509645614432	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509645614432	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509645615685	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509645616599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1509645617126	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1509646966583	geckodriver	INFO	Listening on 127.0.0.1:50427
+1509646967744	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509646968045	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509646968304	Marionette	INFO	Enabled via --marionette
+2017-11-02 13:22:49.056 plugin-container[8065:2052572] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 13:22:49.056 plugin-container[8065:2052572] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa11f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 13:22:49.056 plugin-container[8065:2052572] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1509646969377	Marionette	INFO	Listening on port 50435
+1509646969432	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509646969462	Marionette	DEBUG	Register listener.js for window 2147483649
+1509646970097	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509646970524	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509646970524	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509646972104	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509646972728	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1509646972952	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509646973261	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509646973445	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509646973446	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509646973847	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509646973847	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1509646974022	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509646974345	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509646976987	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509646977254	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509646977421	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509646979306	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509646979307	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509646980172	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/171"
+1509646980783	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/171"
+1509646983103	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509646983422	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509646983680	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509646983936	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1509647628017	geckodriver	INFO	Listening on 127.0.0.1:51453
+1509647629376	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509647630213	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509647630551	Marionette	INFO	Enabled via --marionette
+2017-11-02 13:33:51.922 plugin-container[8107:2056593] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 13:33:51.923 plugin-container[8107:2056593] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x550b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 13:33:51.923 plugin-container[8107:2056593] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1509647632397	Marionette	INFO	Listening on port 51459
+1509647632422	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509647632454	Marionette	DEBUG	Register listener.js for window 2147483649
+1509647633021	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509647633474	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509647633474	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509647634371	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509647635520	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1509647635942	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509647636221	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1509647638713	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509647638965	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509647639069	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509647641331	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509647641332	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509647642006	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/171"
+1509647642898	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/171"
+1509647645245	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509647645593	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509647645853	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509647646105	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509647646160	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/special/171"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1509647651364	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1509658278784	geckodriver	INFO	Listening on 127.0.0.1:54409
+1509658280064	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509658280831	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509658281135	Marionette	INFO	Enabled via --marionette
+2017-11-02 16:31:22.498 plugin-container[8277:2089270] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 16:31:22.498 plugin-container[8277:2089270] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x551b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 16:31:22.498 plugin-container[8277:2089270] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1509658283033	Marionette	INFO	Listening on port 54415
+1509658283108	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509658283138	Marionette	DEBUG	Register listener.js for window 2147483649
+1509658283805	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509658284305	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509658284306	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509658285369	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509658286439	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1509658286891	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509658287159	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1509658287345	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509658287345	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509658287676	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509658287836	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509658288189	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509658290800	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509658291072	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509658291189	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509658292908	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509658292908	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509658293138	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1509658293634	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/171"
+1509658294405	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/171"
+1509658296731	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509658297054	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509658297316	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509658297569	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509658297619	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/special/171"
+1509658302823	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode183
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode184
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode185
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode186
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode188
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode189
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode190
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode191
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode225
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode226
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode227
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode228
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode229
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode230
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode231
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode232
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1509658722100	geckodriver	INFO	Listening on 127.0.0.1:55557
+1509658723335	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509658723955	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509658724250	Marionette	INFO	Enabled via --marionette
+2017-11-02 16:38:45.532 plugin-container[8315:2091940] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 16:38:45.532 plugin-container[8315:2091940] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa323, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 16:38:45.532 plugin-container[8315:2091940] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1509658725977	Marionette	INFO	Listening on port 55563
+1509658726073	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509658726105	Marionette	DEBUG	Register listener.js for window 2147483649
+1509658726710	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509658727238	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509658727239	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509658728318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509658729320	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1509658729664	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509658729942	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509658732424	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509658732676	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509658732884	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509658734709	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509658734710	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509658735294	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/171"
+1509658735715	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/171"
+1509658738033	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509658738352	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509658738632	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509658738896	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509658738951	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/special/171"
+1509658741716	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/cart/special/171"
+1509658741716	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/cart/special/171"
+1509658742032	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1509658742032	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1509658742032	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1509658742032	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1509658742286	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+1509658743240	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+1509658753529	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509658758566	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+1509658763779	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509658773860	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/tmax_AA40"
+1509658779047	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode193
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode194
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode195
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode196
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode197
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode198
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode225
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode226
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode227
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode228
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode229
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode230
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode225
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode226
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode227
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode228
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode229
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode230
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode266
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode267
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode268
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode269
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode270
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode271
+1509659007714	geckodriver	INFO	Listening on 127.0.0.1:55951
+1509659008790	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509659008973	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509659009238	Marionette	INFO	Enabled via --marionette
+2017-11-02 16:43:29.979 plugin-container[8340:2093808] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 16:43:29.979 plugin-container[8340:2093808] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa213, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 16:43:29.979 plugin-container[8340:2093808] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1509659010400	Marionette	INFO	Listening on port 55957
+1509659010468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509659010499	Marionette	DEBUG	Register listener.js for window 2147483649
+1509659011107	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509659011530	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509659011530	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509659012402	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509659013468	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1509659013830	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509659014102	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509659014298	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509659014298	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509659014598	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509659014901	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509659015150	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509659017836	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659018108	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659018265	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509659020008	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509659020008	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509659020184	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1509659020743	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/171"
+1509659021053	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/171"
+1509659023377	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659023702	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659023963	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659024217	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659024269	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/special/171"
+1509659029474	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659039754	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659044787	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+1509659049998	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659060101	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/tmax_AA40"
+1509659065285	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1509659480327	geckodriver	INFO	Listening on 127.0.0.1:57008
+1509659481398	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509659481577	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509659481834	Marionette	INFO	Enabled via --marionette
+2017-11-02 16:51:22.574 plugin-container[8371:2096980] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 16:51:22.575 plugin-container[8371:2096980] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e0f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 16:51:22.575 plugin-container[8371:2096980] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1509659482873	Marionette	INFO	Listening on port 57014
+1509659482962	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509659482991	Marionette	DEBUG	Register listener.js for window 2147483649
+1509659483555	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509659484580	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509659484580	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509659485902	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509659486754	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1509659487080	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509659487355	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509659487540	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509659487540	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/index/index"
+1509659487844	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509659488004	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509659488298	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509659490869	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659491150	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659491262	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509659493324	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509659493325	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/tmax/main/step2"
+1509659493565	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1509659494041	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/171"
+1509659494435	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/171"
+1509659496758	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659497080	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659497340	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659497592	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659497640	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/special/171"
+1509659502843	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659513123	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659518158	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/tmax_reload"
+1509659523370	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659533468	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/tmax_AA40"
+1509659538657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1509659544941	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509659549971	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/tmax_alpha-armor"
+1509659555181	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+console.error: PushService: 
+  Failed to drop expired registrations on idle
+  UnknownError
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null

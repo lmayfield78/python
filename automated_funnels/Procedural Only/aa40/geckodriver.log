@@ -1,0 +1,844 @@
+1496699715318	geckodriver	INFO	Listening on 127.0.0.1:62898
+1496699716674	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496699720012	Marionette	INFO	Listening on port 62909
+1496699720075	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 16:55:20.389 plugin-container[20471:1889235] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 16:55:20.389 plugin-container[20471:1889235] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d27, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 16:55:20.389 plugin-container[20471:1889235] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1496699723851	Marionette	INFO	New connections will no longer be accepted
+[Child 20471] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1496699744709	geckodriver	INFO	Listening on 127.0.0.1:63107
+1496699745821	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496699747699	Marionette	INFO	Listening on port 63117
+1496699747746	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 16:55:48.056 plugin-container[20479:1890368] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 16:55:48.056 plugin-container[20479:1890368] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9027, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 16:55:48.056 plugin-container[20479:1890368] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+
+###!!! [Parent][DispatchAsyncMessage] Error: (msgtype=0xFFFB) Payload error: message could not be deserialized
+
+[GFX1-]: Failed to create a valid ShmemTextureHost
+1496699754006	Marionette	INFO	New connections will no longer be accepted
+1496699846620	geckodriver	INFO	Listening on 127.0.0.1:63386
+1496699847808	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496699849737	Marionette	INFO	Listening on port 63396
+1496699849802	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 16:57:30.110 plugin-container[20488:1892528] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 16:57:30.111 plugin-container[20488:1892528] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x521b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 16:57:30.111 plugin-container[20488:1892528] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1496699853757	Marionette	INFO	New connections will no longer be accepted
+1496699894817	geckodriver	INFO	Listening on 127.0.0.1:63601
+1496699895891	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496699897531	Marionette	INFO	Listening on port 63611
+1496699897593	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 16:58:17.914 plugin-container[20497:1893806] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 16:58:17.914 plugin-container[20497:1893806] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9123, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 16:58:17.914 plugin-container[20497:1893806] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+2017-06-05 17:01:18.512 plugin-container[20501:1896993] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 17:01:18.512 plugin-container[20501:1896993] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9127, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 17:01:18.512 plugin-container[20501:1896993] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x2000A,name=PAPZ::Msg_Destroy) Channel error: cannot send/recv
+
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 259: TypeError: this.controller is undefined
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 259: TypeError: this.controller is undefined
+JavaScript error: chrome://browser/content/places/browserPlacesViews.js, line 259: TypeError: this.controller is undefined
+1496700212261	geckodriver	INFO	Listening on 127.0.0.1:64309
+1496700213335	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496700214870	Marionette	INFO	Listening on port 64319
+1496700214922	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 17:03:35.234 plugin-container[20509:1899545] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 17:03:35.235 plugin-container[20509:1899545] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f43, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 17:03:35.235 plugin-container[20509:1899545] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1496700312502	geckodriver	INFO	Listening on 127.0.0.1:64647
+1496700313701	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496700315556	Marionette	INFO	Listening on port 64658
+1496700315623	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 17:05:15.924 plugin-container[20520:1901628] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 17:05:15.924 plugin-container[20520:1901628] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f27, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 17:05:15.924 plugin-container[20520:1901628] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1496700427668	geckodriver	INFO	Listening on 127.0.0.1:65003
+1496700428845	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496700430615	Marionette	INFO	Listening on port 65013
+1496700430676	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 17:07:10.982 plugin-container[20527:1903544] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 17:07:10.982 plugin-container[20527:1903544] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x901f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 17:07:10.982 plugin-container[20527:1903544] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1496700473566	geckodriver	INFO	Listening on 127.0.0.1:65281
+1496700473776	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496700475594	Marionette	INFO	Listening on port 65288
+1496700475673	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 17:07:55.956 plugin-container[20534:1904748] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 17:07:55.957 plugin-container[20534:1904748] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x521b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 17:07:55.957 plugin-container[20534:1904748] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+2017-06-05 17:08:19.233 plugin-container[20536:1905243] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 17:08:19.233 plugin-container[20536:1905243] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9127, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 17:08:19.233 plugin-container[20536:1905243] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496705483989	geckodriver	INFO	Listening on 127.0.0.1:55336
+1496705485066	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496705486639	Marionette	INFO	Listening on port 55346
+1496705486736	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 18:31:27.037 plugin-container[20721:1936846] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:31:27.040 plugin-container[20721:1936846] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5043, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:31:27.040 plugin-container[20721:1936846] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496706202724	geckodriver	INFO	Listening on 127.0.0.1:56633
+1496706203992	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496706205669	Marionette	INFO	Listening on port 56643
+1496706205768	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 18:43:26.026 plugin-container[20776:1941974] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f47, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:43:26.029 plugin-container[20776:1941974] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5113, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:43:26.029 plugin-container[20776:1941974] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1496706257261	geckodriver	INFO	Listening on 127.0.0.1:56935
+1496706258464	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496706260250	Marionette	INFO	Listening on port 56945
+1496706260350	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 18:44:20.602 plugin-container[20787:1942708] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:44:20.603 plugin-container[20787:1942708] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9127, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:44:20.603 plugin-container[20787:1942708] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+2017-06-05 18:44:58.839 plugin-container[20789:1943155] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:44:58.841 plugin-container[20789:1943155] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9043, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:44:58.841 plugin-container[20789:1943155] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-06-05 18:45:19.338 plugin-container[20790:1943372] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:45:19.338 plugin-container[20790:1943372] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e17, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:45:19.339 plugin-container[20790:1943372] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-06-05 18:45:22.658 plugin-container[20791:1943463] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:45:22.658 plugin-container[20791:1943463] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4e17, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:45:22.658 plugin-container[20791:1943463] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-06-05 18:45:25.748 plugin-container[20792:1943522] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:45:25.749 plugin-container[20792:1943522] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e13, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:45:25.749 plugin-container[20792:1943522] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-06-05 18:45:30.159 plugin-container[20793:1943579] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:45:30.159 plugin-container[20793:1943579] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x521f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:45:30.159 plugin-container[20793:1943579] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-06-05 18:45:46.619 plugin-container[20794:1943687] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:45:46.620 plugin-container[20794:1943687] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x911b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:45:46.620 plugin-container[20794:1943687] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+2017-06-05 18:45:58.237 plugin-container[20795:1943895] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:45:58.237 plugin-container[20795:1943895] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9117, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:45:58.237 plugin-container[20795:1943895] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1496706606647	geckodriver	INFO	Listening on 127.0.0.1:57626
+1496706607835	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496706609559	Marionette	INFO	Listening on port 57636
+1496706609630	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 18:50:09.939 plugin-container[20807:1945853] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:50:09.941 plugin-container[20807:1945853] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x921f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 18:50:09.941 plugin-container[20807:1945853] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: , line 0: uncaught exception: [object Object]
+JavaScript error: , line 0: uncaught exception: [object Object]
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496707308216	geckodriver	INFO	Listening on 127.0.0.1:58614
+1496707309289	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496707310833	Marionette	INFO	Listening on port 58624
+1496707310916	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 19:01:51.232 plugin-container[20819:1950103] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 19:01:51.235 plugin-container[20819:1950103] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f2b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 19:01:51.235 plugin-container[20819:1950103] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1496707393358	geckodriver	INFO	Listening on 127.0.0.1:58943
+1496707394563	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496707396311	Marionette	INFO	Listening on port 58953
+1496707396375	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 19:03:16.673 plugin-container[20827:1951079] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 19:03:16.676 plugin-container[20827:1951079] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4c1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 19:03:16.676 plugin-container[20827:1951079] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+2017-06-05 19:05:33.400 plugin-container[20831:1952631] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 19:05:33.402 plugin-container[20831:1952631] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x500f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 19:05:33.402 plugin-container[20831:1952631] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1496707598660	geckodriver	INFO	Listening on 127.0.0.1:59574
+1496707599732	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496707601273	Marionette	INFO	Listening on port 59584
+1496707601332	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 19:06:41.651 plugin-container[20843:1953238] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 19:06:41.654 plugin-container[20843:1953238] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5313, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 19:06:41.654 plugin-container[20843:1953238] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1496710204162	geckodriver	INFO	Listening on 127.0.0.1:62862
+1496710205286	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496710207060	Marionette	INFO	Listening on port 62873
+1496710207120	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 19:50:07.434 plugin-container[20893:1967868] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 19:50:07.436 plugin-container[20893:1967868] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x911b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 19:50:07.436 plugin-container[20893:1967868] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1496710337775	geckodriver	INFO	Listening on 127.0.0.1:63259
+1496710338856	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496710340518	Marionette	INFO	Listening on port 63269
+1496710340585	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-05 19:52:20.903 plugin-container[20918:1969297] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 19:52:20.903 plugin-container[20918:1969297] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9013, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-05 19:52:20.903 plugin-container[20918:1969297] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496765613041	geckodriver	INFO	Listening on 127.0.0.1:59412
+1496765614217	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496765616878	Marionette	INFO	Listening on port 59422
+1496765616977	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-06 11:13:37.261 plugin-container[21514:2163658] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-06 11:13:37.264 plugin-container[21514:2163658] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-06 11:13:37.264 plugin-container[21514:2163658] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1496765683199	geckodriver	INFO	Listening on 127.0.0.1:59798
+1496765684273	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496765685826	Marionette	INFO	Listening on port 59808
+1496765685885	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-06 11:14:46.237 plugin-container[21524:2164797] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e37, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-06 11:14:46.240 plugin-container[21524:2164797] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f27, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-06 11:14:46.240 plugin-container[21524:2164797] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 92: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 92: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496768506597	geckodriver	INFO	Listening on 127.0.0.1:64712
+1496768507697	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496768509483	Marionette	INFO	Listening on port 64722
+1496768509541	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-06 12:01:49.849 plugin-container[21602:2182271] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-06 12:01:49.850 plugin-container[21602:2182271] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x521b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-06 12:01:49.850 plugin-container[21602:2182271] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 92: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced#, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 92: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced#, line 1: ReferenceError: _etmc is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: can't access dead object
+Full stack: find_@chrome://marionette/content/element.js:290:7
+element.find/</findElements<@chrome://marionette/content/element.js:256:17
+evalFn@chrome://marionette/content/wait.js:70:7
+
+*************************
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 195"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:195:5
+reply@chrome://marionette/content/proxy.js:175:7
+sendToServer@chrome://marionette/content/listener.js:616:3
+sendError@chrome://marionette/content/listener.js:650:3
+dispatch/</<@chrome://marionette/content/listener.js:379:40
+process@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:920:21
+walkerLoop@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:801:7
+scheduleWalkerLoop/<@resource://gre/modules/Promise.jsm -> resource://gre/modules/Promise-backend.js:737:11
+
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496793024809	geckodriver	INFO	Listening on 127.0.0.1:57523
+1496793026006	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496793028188	Marionette	INFO	Listening on port 57532
+1496793028247	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-06 18:50:28.556 plugin-container[867:89246] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-06 18:50:28.558 plugin-container[867:89246] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x501f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-06 18:50:28.558 plugin-container[867:89246] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496860953721	geckodriver	INFO	Listening on 127.0.0.1:61911
+1496860954943	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496860957255	Marionette	INFO	Listening on port 61920
+1496860957362	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-07 13:42:37.657 plugin-container[1678:276190] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-07 13:42:37.659 plugin-container[1678:276190] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4c2f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-07 13:42:37.660 plugin-container[1678:276190] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+1496861183525	geckodriver	INFO	Listening on 127.0.0.1:62318
+1496861183700	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496861186168	Marionette	INFO	Listening on port 62322
+1496861186247	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-07 13:46:26.535 plugin-container[1698:277512] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-07 13:46:26.535 plugin-container[1698:277512] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-07 13:46:26.535 plugin-container[1698:277512] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+2017-06-07 16:36:17.759 plugin-container[1852:322475] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-07 16:36:17.767 plugin-container[1852:322475] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-07 16:36:17.767 plugin-container[1852:322475] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496931791997	DeferredSave.extensions.json	WARN	Write failed: Unix error 2 during operation open on file /var/folders/qt/j96z6fq913sg78p4ghkd4p740000gn/T/rust_mozprofile.76QEVtRnO3hM/extensions.json.tmp (No such file or directory) ((unknown module)) No traceback available
+1496931791997	addons.xpi-utils	WARN	Failed to save XPI database: Unix error 2 during operation open on file /var/folders/qt/j96z6fq913sg78p4ghkd4p740000gn/T/rust_mozprofile.76QEVtRnO3hM/extensions.json.tmp (No such file or directory) ((unknown module)) No traceback available
+1496934098100	geckodriver	INFO	Listening on 127.0.0.1:55149
+1496934099350	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496934102647	Marionette	INFO	Listening on port 55155
+1496934102732	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-08 10:01:43.028 plugin-container[2449:503847] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9137, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:01:43.029 plugin-container[2449:503847] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9323, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:01:43.029 plugin-container[2449:503847] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/base.js, line 6132: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 67: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 69: Error: WebGL warning: validateProgram: Implemented as a no-op on Mac to work around crashes.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: texImage2D: Failed to hit GPU-copy fast-path. Falling back to CPU upload.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: texImage2D: Conversion requires pixel reformatting.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: texImage2D: Failed to hit GPU-copy fast-path. Falling back to CPU upload.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: texImage2D: Conversion requires pixel reformatting.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: texImage2D: Failed to hit GPU-copy fast-path. Falling back to CPU upload.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL warning: texImage2D: Conversion requires pixel reformatting.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflZ_L_3c/en_US/webgl.js, line 118: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+1496934491627	geckodriver	INFO	Listening on 127.0.0.1:56020
+1496934492703	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496934494245	Marionette	INFO	Listening on port 56028
+1496934494332	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-08 10:08:14.619 plugin-container[2474:506085] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:08:14.619 plugin-container[2474:506085] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f1b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:08:14.620 plugin-container[2474:506085] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496934866321	geckodriver	INFO	Listening on 127.0.0.1:56685
+1496934867393	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496934868909	Marionette	INFO	Listening on port 56691
+1496934868981	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-08 10:14:29.284 plugin-container[2504:510802] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:14:29.287 plugin-container[2504:510802] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x901b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:14:29.287 plugin-container[2504:510802] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1496935011435	geckodriver	INFO	Listening on 127.0.0.1:56998
+1496935012506	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496935014065	Marionette	INFO	Listening on port 57004
+1496935014124	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-08 10:16:54.435 plugin-container[2514:513099] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:16:54.437 plugin-container[2514:513099] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:16:54.437 plugin-container[2514:513099] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1496935059474	geckodriver	INFO	Listening on 127.0.0.1:57293
+1496935060671	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496935062836	Marionette	INFO	Listening on port 57299
+1496935062901	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-08 10:17:43.198 plugin-container[2522:514166] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:17:43.198 plugin-container[2522:514166] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x902b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:17:43.198 plugin-container[2522:514166] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+1496935244207	geckodriver	INFO	Listening on 127.0.0.1:57713
+1496935245281	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496935246808	Marionette	INFO	Listening on port 57719
+1496935246868	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-08 10:20:47.195 plugin-container[2535:516701] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:20:47.198 plugin-container[2535:516701] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x971b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:20:47.198 plugin-container[2535:516701] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_leptinshred02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_leptinshred02, line 1: ReferenceError: _etmc is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+2017-06-08 10:34:08.962 plugin-container[2553:524780] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:34:08.964 plugin-container[2553:524780] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9313, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:34:08.964 plugin-container[2553:524780] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1496936312284	geckodriver	INFO	Listening on 127.0.0.1:58711
+1496936313359	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496936314917	Marionette	INFO	Listening on port 58717
+1496936314981	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-08 10:38:35.280 plugin-container[2574:526388] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:38:35.281 plugin-container[2574:526388] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9143, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:38:35.281 plugin-container[2574:526388] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1496936368955	geckodriver	INFO	Listening on 127.0.0.1:59013
+1496936370028	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496936371537	Marionette	INFO	Listening on port 59019
+1496936371615	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-08 10:39:31.896 plugin-container[2582:527094] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:39:31.897 plugin-container[2582:527094] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:39:31.897 plugin-container[2582:527094] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1496936713591	geckodriver	INFO	Listening on 127.0.0.1:59401
+1496936714667	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496936716177	Marionette	INFO	Listening on port 59407
+1496936716251	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-08 10:45:16.542 plugin-container[2619:528980] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:45:16.542 plugin-container[2619:528980] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x530b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:45:16.542 plugin-container[2619:528980] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_leptinshred02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_leptinshred02, line 1: ReferenceError: _etmc is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496937524504	geckodriver	INFO	Listening on 127.0.0.1:60373
+1496937525579	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496937527091	Marionette	INFO	Listening on port 60379
+1496937527169	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-08 10:58:47.459 plugin-container[2641:533667] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:58:47.461 plugin-container[2641:533667] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x902b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 10:58:47.461 plugin-container[2641:533667] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_leptinshred02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_leptinshred02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_complete, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_complete, line 1: ReferenceError: _etmc is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496939491078	geckodriver	INFO	Listening on 127.0.0.1:61616
+1496939492225	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496939493959	Marionette	INFO	Listening on port 61622
+1496939494020	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-08 11:31:34.330 plugin-container[2714:545131] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 11:31:34.332 plugin-container[2714:545131] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x912b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 11:31:34.332 plugin-container[2714:545131] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_leptinshred02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_leptinshred02, line 1: ReferenceError: _etmc is not defined
+1496939554025	Marionette	INFO	New connections will no longer be accepted
+console.error: PushService: 
+  Failed to drop expired registrations on idle
+  UnknownError
+1496945697049	geckodriver	INFO	Listening on 127.0.0.1:64974
+1496945698084	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496945699866	Marionette	INFO	Listening on port 64980
+1496945699944	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-08 13:15:00.259 plugin-container[2845:584079] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 13:15:00.259 plugin-container[2845:584079] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9213, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 13:15:00.259 plugin-container[2845:584079] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_leptinshred02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_leptinshred02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_complete, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_complete, line 1: ReferenceError: _etmc is not defined
+1496945782287	Marionette	INFO	New connections will no longer be accepted
+1496946490875	geckodriver	INFO	Listening on 127.0.0.1:49641
+1496946490959	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496946492755	Marionette	INFO	Listening on port 49645
+1496946492859	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-08 13:28:13.157 plugin-container[2869:588447] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 13:28:13.159 plugin-container[2869:588447] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9027, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 13:28:13.159 plugin-container[2869:588447] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_leptinshred02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_leptinshred02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_complete, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_complete, line 1: ReferenceError: _etmc is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1496959197039	geckodriver	INFO	Listening on 127.0.0.1:52096
+1496959198300	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496959200993	Marionette	INFO	Listening on port 52102
+1496959201057	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-08 17:00:01.364 plugin-container[2999:628605] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 17:00:01.367 plugin-container[2999:628605] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x521b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 17:00:01.367 plugin-container[2999:628605] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_leptinshred02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_leptinshred02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_complete, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_complete, line 1: ReferenceError: _etmc is not defined
+1496959269550	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1496959449564	geckodriver	INFO	Listening on 127.0.0.1:52642
+1496959449663	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1496959451705	Marionette	INFO	Listening on port 52646
+1496959451773	Marionette	WARN	TLS certificate errors will be ignored for this session
+2017-06-08 17:04:12.076 plugin-container[3009:630716] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 17:04:12.079 plugin-container[3009:630716] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-06-08 17:04:12.079 plugin-container[3009:630716] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_advanced, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_testreload02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_leptinshred02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_leptinshred02, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_complete, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-NGJWSNF, line 95: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/secure_aaf_complete, line 1: ReferenceError: _etmc is not defined
+1496959520861	Marionette	INFO	New connections will no longer be accepted
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1497026913325	DeferredSave.extensions.json	WARN	Write failed: Unix error 2 during operation open on file /var/folders/qt/j96z6fq913sg78p4ghkd4p740000gn/T/rust_mozprofile.76QEVtRnO3hM/extensions.json.tmp (No such file or directory) ((unknown module)) No traceback available
+1497026913326	addons.xpi-utils	WARN	Failed to save XPI database: Unix error 2 during operation open on file /var/folders/qt/j96z6fq913sg78p4ghkd4p740000gn/T/rust_mozprofile.76QEVtRnO3hM/extensions.json.tmp (No such file or directory) ((unknown module)) No traceback available
+console.error: PushService: 
+  Failed to drop expired registrations on idle
+  UnknownError
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1497277120638	DeferredSave.extensions.json	WARN	Write failed: Unix error 2 during operation open on file /var/folders/qt/j96z6fq913sg78p4ghkd4p740000gn/T/rust_mozprofile.76QEVtRnO3hM/extensions.json.tmp (No such file or directory) ((unknown module)) No traceback available
+1497277120655	addons.xpi-utils	WARN	Failed to save XPI database: Unix error 2 during operation open on file /var/folders/qt/j96z6fq913sg78p4ghkd4p740000gn/T/rust_mozprofile.76QEVtRnO3hM/extensions.json.tmp (No such file or directory) ((unknown module)) No traceback available
+console.error: PushService: 
+  Failed to drop expired registrations on idle
+  UnknownError
+console.error: 
+  Could not write session state file 
+  Message: Unix error 2 during operation open on file /var/folders/qt/j96z6fq913sg78p4ghkd4p740000gn/T/rust_mozprofile.76QEVtRnO3hM/sessionstore.js.tmp (No such file or directory)
+  
+1497278113397	addons.xpi-utils	WARN	Error: XPI database modified after shutdown began (resource://gre/modules/addons/XPIProvider.jsm -> resource://gre/modules/addons/XPIProviderUtils.js:429:17) JS Stack trace: saveChanges@XPIProviderUtils.js:429:17 < shutdown@XPIProviderUtils.js:999:9 < shutdown@XPIProvider.jsm:2952:18 < _startProvider/AMProviderShutdown/<@AddonManager.jsm:771:21 < Promise@Promise-backend.js:385:5 < AMProviderShutdown@AddonManager.jsm:769:16 < trigger@AsyncShutdown.jsm:719:23 < _wait@AsyncShutdown.jsm:866:7 < wait@AsyncShutdown.jsm:850:28 < AddonManagerInternal.shutdownManager<@AddonManager.jsm:1163:15
+1497278113415	DeferredSave.extensions.json	WARN	Write failed: Unix error 2 during operation open on file /var/folders/qt/j96z6fq913sg78p4ghkd4p740000gn/T/rust_mozprofile.76QEVtRnO3hM/extensions.json.tmp (No such file or directory) ((unknown module)) No traceback available
+1497278113416	addons.xpi-utils	WARN	Failed to save XPI database: Unix error 2 during operation open on file /var/folders/qt/j96z6fq913sg78p4ghkd4p740000gn/T/rust_mozprofile.76QEVtRnO3hM/extensions.json.tmp (No such file or directory) ((unknown module)) No traceback available
+1497278113416	addons.xpi-utils	ERROR	Flush of XPI database failed: Unix error 2 during operation open on file /var/folders/qt/j96z6fq913sg78p4ghkd4p740000gn/T/rust_mozprofile.76QEVtRnO3hM/extensions.json.tmp (No such file or directory) ((unknown module)) No traceback available
+1497278113416	addons.manager	WARN	Failure during shutdown of XPIProvider: Unix error 2 during operation open on file /var/folders/qt/j96z6fq913sg78p4ghkd4p740000gn/T/rust_mozprofile.76QEVtRnO3hM/extensions.json.tmp (No such file or directory) ((unknown module)) No traceback available

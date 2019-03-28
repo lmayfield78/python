@@ -1,0 +1,1474 @@
+1510016094926	geckodriver	INFO	Listening on 127.0.0.1:60593
+1510016096138	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510016096703	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510016097002	Marionette	INFO	Enabled via --marionette
+2017-11-06 18:54:58.276 plugin-container[11026:2819536] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 18:54:58.276 plugin-container[11026:2819536] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 18:54:58.276 plugin-container[11026:2819536] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510016098622	Marionette	INFO	Listening on port 60603
+1510016098665	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510016098695	Marionette	DEBUG	Register listener.js for window 2147483649
+1510016099218	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510016099860	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510016099860	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510016100710	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510016102352	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510016102859	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1510016102887	Marionette	INFO	New connections will no longer be accepted
+1510016127459	geckodriver	INFO	Listening on 127.0.0.1:60881
+1510016128548	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510016128905	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510016129178	Marionette	INFO	Enabled via --marionette
+2017-11-06 18:55:29.999 plugin-container[11041:2820327] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 18:55:30.000 plugin-container[11041:2820327] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa023, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 18:55:30.000 plugin-container[11041:2820327] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510016130350	Marionette	INFO	Listening on port 60891
+1510016130442	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510016130471	Marionette	DEBUG	Register listener.js for window 2147483649
+1510016131060	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510016131739	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510016131739	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510016132768	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510016133823	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510016134215	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1510016134228	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1510016173247	geckodriver	INFO	Listening on 127.0.0.1:61222
+1510016174460	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510016174834	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510016175190	Marionette	INFO	Enabled via --marionette
+2017-11-06 18:56:16.060 plugin-container[11057:2821149] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 18:56:16.061 plugin-container[11057:2821149] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa123, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 18:56:16.061 plugin-container[11057:2821149] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510016176366	Marionette	INFO	Listening on port 61232
+1510016176429	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510016176457	Marionette	DEBUG	Register listener.js for window 2147483649
+1510016177022	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510016177459	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510016177459	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510016178401	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510016179553	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510016179885	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1510016179918	Marionette	INFO	New connections will no longer be accepted
+1510017159745	geckodriver	INFO	Listening on 127.0.0.1:49189
+1510017160958	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510017161360	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510017161623	Marionette	INFO	Enabled via --marionette
+2017-11-06 19:12:42.484 plugin-container[11083:2826159] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 19:12:42.485 plugin-container[11083:2826159] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa723, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 19:12:42.485 plugin-container[11083:2826159] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510017162953	Marionette	INFO	Listening on port 49199
+1510017163054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510017163084	Marionette	DEBUG	Register listener.js for window 2147483649
+1510017163613	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510017164464	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510017164464	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510017165045	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510017166840	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510017167228	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1510017167241	Marionette	INFO	New connections will no longer be accepted
+1510017261858	geckodriver	INFO	Listening on 127.0.0.1:49737
+1510017261953	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510017262387	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510017262718	Marionette	INFO	Enabled via --marionette
+2017-11-06 19:14:23.541 plugin-container[11098:2827311] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 19:14:23.541 plugin-container[11098:2827311] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x521f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 19:14:23.541 plugin-container[11098:2827311] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510017263834	Marionette	INFO	Listening on port 49741
+1510017263848	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510017263880	Marionette	DEBUG	Register listener.js for window 2147483649
+1510017264529	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510017265294	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510017265294	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510017265945	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510017267108	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510017268125	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1510017268138	Marionette	INFO	New connections will no longer be accepted
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+1510018817732	geckodriver	INFO	Listening on 127.0.0.1:56636
+1510018818822	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510018819017	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510018819328	Marionette	INFO	Enabled via --marionette
+2017-11-06 19:40:20.146 plugin-container[11144:2834298] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 19:40:20.147 plugin-container[11144:2834298] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 19:40:20.147 plugin-container[11144:2834298] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510018820487	Marionette	INFO	Listening on port 56646
+1510018820590	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510018820621	Marionette	DEBUG	Register listener.js for window 2147483649
+1510018821258	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510018821732	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510018821733	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510018822363	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510018823978	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510018824284	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1510018824634	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1510018824812	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1510018824812	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1510018824923	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510018825740	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510018826853	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510018829866	Marionette	INFO	New connections will no longer be accepted
+1510018876250	geckodriver	INFO	Listening on 127.0.0.1:57045
+1510018877324	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510018877755	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510018878050	Marionette	INFO	Enabled via --marionette
+2017-11-06 19:41:18.838 plugin-container[11159:2835363] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 19:41:18.839 plugin-container[11159:2835363] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa41b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-06 19:41:18.839 plugin-container[11159:2835363] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510018879162	Marionette	INFO	Listening on port 57055
+1510018879215	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510018879244	Marionette	DEBUG	Register listener.js for window 2147483649
+1510018879848	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510018880308	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510018880308	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510018882062	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510018883351	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510018883371	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1510018883707	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1510018883892	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1510018883892	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1510018884053	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510018884053	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1510018884218	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510018884718	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510018893735	Marionette	INFO	New connections will no longer be accepted
+1510096915871	geckodriver	INFO	Listening on 127.0.0.1:65374
+1510096917186	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510096917725	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510096918185	Marionette	INFO	Enabled via --marionette
+2017-11-07 17:22:00.385 plugin-container[1320:220199] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 17:22:00.386 plugin-container[1320:220199] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x521f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 17:22:00.386 plugin-container[1320:220199] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510096920749	Marionette	INFO	Listening on port 65391
+1510096920866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510096920896	Marionette	DEBUG	Register listener.js for window 2147483649
+1510096921474	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510096921902	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510096921902	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510096922512	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510096923691	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510096924495	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1510096924820	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1510096925006	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1510096925006	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1510096925130	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510096925131	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1510096925131	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1510096925481	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510096925790	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510096934805	Marionette	INFO	New connections will no longer be accepted
+1510096989992	geckodriver	INFO	Listening on 127.0.0.1:49579
+1510096991064	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510096991572	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510096991846	Marionette	INFO	Enabled via --marionette
+2017-11-07 17:23:12.765 plugin-container[1331:221422] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 17:23:12.766 plugin-container[1331:221422] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa02b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 17:23:12.766 plugin-container[1331:221422] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510096993061	Marionette	INFO	Listening on port 49592
+1510096993147	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510096993176	Marionette	DEBUG	Register listener.js for window 2147483649
+1510096993826	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510096994280	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510096994281	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510096994917	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510096996171	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510096996545	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1510096996848	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510097005860	Marionette	INFO	New connections will no longer be accepted
+1510097967272	geckodriver	INFO	Listening on 127.0.0.1:54674
+1510097968362	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510097968726	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510097968986	Marionette	INFO	Enabled via --marionette
+2017-11-07 17:39:29.656 plugin-container[1343:226123] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 17:39:29.656 plugin-container[1343:226123] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 17:39:29.656 plugin-container[1343:226123] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510097970167	Marionette	INFO	Listening on port 54689
+1510097970240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510097970271	Marionette	DEBUG	Register listener.js for window 2147483649
+1510097970855	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510097971695	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510097971695	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510097972222	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510097973354	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1510097974113	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1510097974387	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1510097974575	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1510097974576	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1510097974687	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510097974943	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510097975214	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510097984235	Marionette	INFO	New connections will no longer be accepted
+1510098241902	geckodriver	INFO	Listening on 127.0.0.1:55967
+1510098242970	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510098243153	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510098243409	Marionette	INFO	Enabled via --marionette
+2017-11-07 17:44:04.145 plugin-container[1375:227891] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e43, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 17:44:04.145 plugin-container[1375:227891] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f0f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 17:44:04.145 plugin-container[1375:227891] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510098244497	Marionette	INFO	Listening on port 55980
+1510098244542	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510098244572	Marionette	DEBUG	Register listener.js for window 2147483649
+1510098245112	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510098245600	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510098245601	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510098246895	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510098247566	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1510098248822	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1510098249087	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1510098249275	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1510098249276	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1510098249401	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510098249401	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1510098249667	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510098250281	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510098259564	Marionette	INFO	New connections will no longer be accepted
+1510098597447	geckodriver	INFO	Listening on 127.0.0.1:57597
+1510098598518	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510098598702	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510098598966	Marionette	INFO	Enabled via --marionette
+2017-11-07 17:49:59.717 plugin-container[1385:229810] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 17:49:59.717 plugin-container[1385:229810] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa223, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 17:49:59.717 plugin-container[1385:229810] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510098600020	Marionette	INFO	Listening on port 57612
+1510098600088	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510098600117	Marionette	DEBUG	Register listener.js for window 2147483649
+1510098600643	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510098601482	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510098601482	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510098602064	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510098603520	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510098603626	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1510098603898	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1510098604078	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1510098604078	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1510098604181	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510098604182	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1510098604626	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510098604988	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510098614246	Marionette	INFO	New connections will no longer be accepted
+1510098637858	geckodriver	INFO	Listening on 127.0.0.1:57937
+1510098638931	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510098639117	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510098639372	Marionette	INFO	Enabled via --marionette
+2017-11-07 17:50:40.167 plugin-container[1399:230737] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 17:50:40.167 plugin-container[1399:230737] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa027, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 17:50:40.167 plugin-container[1399:230737] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510098640418	Marionette	INFO	Listening on port 57951
+1510098640499	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510098640529	Marionette	DEBUG	Register listener.js for window 2147483649
+1510098641088	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510098641879	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510098641879	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510098642381	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510098643384	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510098644329	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1510098644588	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1510098644771	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1510098644771	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1510098644881	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510098645090	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510098645728	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1510100151038	geckodriver	INFO	Listening on 127.0.0.1:64646
+1510100152112	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510100152306	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510100152574	Marionette	INFO	Enabled via --marionette
+2017-11-07 18:15:53.472 plugin-container[1414:237754] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 18:15:53.472 plugin-container[1414:237754] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5607, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 18:15:53.472 plugin-container[1414:237754] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510100153768	Marionette	INFO	Listening on port 64659
+1510100153787	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510100153819	Marionette	DEBUG	Register listener.js for window 2147483649
+1510100154403	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510100154821	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510100154821	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510100155443	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510100156750	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510100157066	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1510100157449	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510100379165	geckodriver	INFO	Listening on 127.0.0.1:49376
+1510100380239	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510100380442	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510100380715	Marionette	INFO	Enabled via --marionette
+2017-11-07 18:19:41.478 plugin-container[1435:239077] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 18:19:41.479 plugin-container[1435:239077] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x520f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-07 18:19:41.479 plugin-container[1435:239077] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510100381776	Marionette	INFO	Listening on port 49389
+1510100381820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510100381854	Marionette	DEBUG	Register listener.js for window 2147483649
+1510100382460	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510100382892	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510100382892	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510100383459	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510100384522	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510100385191	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1510100385469	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1510100385675	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1510100385675	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1510100385780	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510100386396	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510100386817	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510100396390	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510100396645	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510100396937	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510100396990	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510100398961	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510100398962	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510100399293	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1510100399815	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/185"
+1510100401199	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/185"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1510168041639	geckodriver	INFO	Listening on 127.0.0.1:49371
+1510168042966	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510168043693	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510168044172	Marionette	INFO	Enabled via --marionette
+2017-11-08 13:07:25.602 plugin-container[2445:422134] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9c3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-08 13:07:25.603 plugin-container[2445:422134] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4c1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-08 13:07:25.603 plugin-container[2445:422134] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510168046064	Marionette	INFO	Listening on port 49388
+1510168046091	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510168046122	Marionette	DEBUG	Register listener.js for window 2147483649
+1510168046748	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510168047224	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510168047224	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510168048277	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510168048974	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510168049967	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1510168050235	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1510168050490	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1510168050490	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1510168050593	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510168050847	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510168051382	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510168060889	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510168061137	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510168061414	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510168061465	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510168063630	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510168063630	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510168064611	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/185"
+1510168065567	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/185"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1510168106500	geckodriver	INFO	Listening on 127.0.0.1:49873
+1510168107655	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510168108061	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510168108344	Marionette	INFO	Enabled via --marionette
+2017-11-08 13:08:29.477 plugin-container[2456:422850] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-08 13:08:29.477 plugin-container[2456:422850] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa047, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-08 13:08:29.477 plugin-container[2456:422850] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510168109775	Marionette	INFO	Listening on port 49890
+1510168109844	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510168109874	Marionette	DEBUG	Register listener.js for window 2147483649
+1510168110469	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510168112482	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510168112483	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510168113055	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510168114159	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510168114456	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1510168114759	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510168124252	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510168124590	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510168124870	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510168124921	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510168127255	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510168127256	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510168128215	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/185"
+1510168128706	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/185"
+1510168141008	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510168141327	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510168829418	geckodriver	INFO	Listening on 127.0.0.1:53336
+1510168830633	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510168831039	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510168831432	Marionette	INFO	Enabled via --marionette
+2017-11-08 13:20:32.476 plugin-container[2477:427541] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-08 13:20:32.477 plugin-container[2477:427541] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa01f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-08 13:20:32.477 plugin-container[2477:427541] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510168832795	Marionette	INFO	Listening on port 53358
+1510168832856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510168832887	Marionette	DEBUG	Register listener.js for window 2147483649
+1510168833511	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510168834007	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510168834007	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510168834575	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510168835684	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflvYne1z/en_US/base.js, line 6062: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflvYne1z/en_US/webgl.js, line 61: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflvYne1z/en_US/webgl.js, line 64: Error: WebGL warning: validateProgram: Implemented as a no-op on Mac to work around crashes.
+1510168836429	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1510168836711	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1510168836919	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1510168836920	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1510168837065	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510168837419	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510168837784	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510168847307	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510168847561	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510168847845	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510168847915	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510168850620	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510168850621	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510168851391	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/185"
+1510168852102	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/185"
+1510168864425	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510168864756	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510168865029	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510168865296	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510168865372	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/special/185"
+1510168870575	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510181736896	geckodriver	INFO	Listening on 127.0.0.1:52576
+1510181738158	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510181738607	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510181738931	Marionette	INFO	Enabled via --marionette
+2017-11-08 16:55:40.016 plugin-container[2603:465495] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-08 16:55:40.017 plugin-container[2603:465495] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4b1b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-08 16:55:40.017 plugin-container[2603:465495] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510181740298	Marionette	INFO	Listening on port 52586
+1510181740343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510181740373	Marionette	DEBUG	Register listener.js for window 2147483649
+1510181741030	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510181741867	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510181741867	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510181742420	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510181743423	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1510181745152	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1510181745422	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1510181745605	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1510181745605	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1510181745727	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510181745971	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510181746302	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510181755851	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510181756108	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510181756387	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510181756440	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510181758536	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510181758537	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510181758793	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1510181759249	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/185"
+1510181759972	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/185"
+1510181772292	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510181772617	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510181772880	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510181773146	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510181773196	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/special/185"
+1510181776934	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/cart/special/185"
+1510181776935	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/cart/special/185"
+1510181777218	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1510181777218	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1510181777219	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1510181777219	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1510181777219	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1510181777219	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1510181777220	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1510181777771	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/customize/sbs_leptin"
+1510181779010	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/customize/sbs_leptin"
+1510181779608	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510181780645	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/customize/sbs_leptin"
+1510181785856	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1510183035207	geckodriver	INFO	Listening on 127.0.0.1:58528
+1510183036381	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510183036757	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510183037079	Marionette	INFO	Enabled via --marionette
+2017-11-08 17:17:18.138 plugin-container[2681:474638] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-08 17:17:18.138 plugin-container[2681:474638] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa213, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-08 17:17:18.138 plugin-container[2681:474638] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510183038426	Marionette	INFO	Listening on port 58538
+1510183038472	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510183038502	Marionette	DEBUG	Register listener.js for window 2147483649
+1510183039083	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510183039541	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510183039541	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510183040128	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510183041405	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510183041723	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1510183041999	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1510183042179	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1510183042180	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1510183042285	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510183042648	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510183043057	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510183052562	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183052817	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183053093	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183053145	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+JavaScript error: jar:file:///Applications/Firefox.app/Contents/Resources/browser/omni.ja!/components/nsBrowserGlue.js, line 994: TypeError: win is null
+1510183055026	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510183055026	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1510183055937	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/185"
+1510183056814	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/185"
+1510183069123	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183069447	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183069710	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183069975	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183070023	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/special/185"
+1510183075226	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183295738	geckodriver	INFO	Listening on 127.0.0.1:59923
+1510183296810	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510183296993	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510183297248	Marionette	INFO	Enabled via --marionette
+2017-11-08 17:21:37.989 plugin-container[2701:476742] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x523f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-08 17:21:37.990 plugin-container[2701:476742] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f1b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-08 17:21:37.990 plugin-container[2701:476742] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510183298292	Marionette	INFO	Listening on port 59936
+1510183298367	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510183298395	Marionette	DEBUG	Register listener.js for window 2147483649
+1510183298940	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510183299351	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510183299351	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510183299889	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510183301080	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510183302005	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1510183302272	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1510183302455	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1510183302455	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1510183302567	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510183302837	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510183303154	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510183312663	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183312914	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183313194	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183313245	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510183315016	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510183315017	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1510183315805	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/185"
+1510183316384	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/185"
+1510183328696	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183329018	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183329279	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183329543	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183329591	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/special/185"
+1510183333119	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/cart/special/185"
+1510183333119	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/cart/special/185"
+1510183333282	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1510183333282	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1510183333283	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1510183333283	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1510183333283	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483671"
+1510183333283	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483673"
+1510183333284	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1510183333684	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/customize/sbs_leptin"
+1510183335146	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/customize/sbs_leptin"
+1510183335536	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183336567	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/customize/sbs_leptin"
+1510183341774	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510183346840	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/customize/sbs_aa"
+1510183352050	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode129
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode130
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode131
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode132
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode133
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode134
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode168
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode169
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode170
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode171
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode172
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode173
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode168
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode169
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode170
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode171
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode172
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode173
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode223
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode224
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode225
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode226
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode227
+console.error: 
+  Got an addition of an actor we didn't know about: server1.conn0.child1/domnode228
+1510184465824	geckodriver	INFO	Listening on 127.0.0.1:49265
+1510184466924	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510184467203	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510184467480	Marionette	INFO	Enabled via --marionette
+2017-11-08 17:41:08.521 plugin-container[2780:484181] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-08 17:41:08.522 plugin-container[2780:484181] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa11f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-08 17:41:08.522 plugin-container[2780:484181] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510184469045	Marionette	INFO	Listening on port 49278
+1510184469121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510184469150	Marionette	DEBUG	Register listener.js for window 2147483649
+1510184469776	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510184470251	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510184470251	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510184470897	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510184472022	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflvYne1z/en_US/base.js, line 6062: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflvYne1z/en_US/webgl.js, line 61: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflvYne1z/en_US/webgl.js, line 64: Error: WebGL warning: validateProgram: Implemented as a no-op on Mac to work around crashes.
+1510184472556	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1510184472825	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1510184473008	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1510184473009	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1510184473124	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510184473345	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510184474022	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510184483555	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510184483808	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510184484086	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510184484139	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510184485961	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510184485962	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510184486622	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/185"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1510184488506	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/185"
+1510184500832	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510184501160	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510184501441	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510184501720	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510184501773	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/special/185"
+1510184506977	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510184506998	Marionette	INFO	New connections will no longer be accepted
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+JavaScript error: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/server/actors/highlighters/box-model.js, line 410: TypeError: quads is undefined
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1689, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1689"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1689:5
+exports.makeInfallible/<@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:569:7
+onInputStreamReady@resource://gre/modules/commonjs/toolkit/loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1689, column: 0
+1510249490531	geckodriver	INFO	Listening on 127.0.0.1:63047
+1510249491716	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510249492351	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510249492741	Marionette	INFO	Enabled via --marionette
+2017-11-09 11:44:54.264 plugin-container[3287:635292] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa13f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-09 11:44:54.264 plugin-container[3287:635292] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa80b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-09 11:44:54.264 plugin-container[3287:635292] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510249494884	Marionette	INFO	Listening on port 63056
+1510249494991	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510249495027	Marionette	DEBUG	Register listener.js for window 2147483649
+1510249495672	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510249496121	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510249496121	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510249496810	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510249498415	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510249498915	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1510249499264	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1510249499521	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1510249499521	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1510249499668	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510249500036	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510249500442	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510249510154	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510249510413	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510249510715	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1510249510780	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510249512727	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510249512728	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510249513199	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1510249513200	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1510249513202	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1510249514408	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/185"
+1510249515226	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/185"
+2017-11-09 16:18:03.769 plugin-container[3406:696484] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa23f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-09 16:18:03.783 plugin-container[3406:696484] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa323, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-09 16:18:03.783 plugin-container[3406:696484] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510278950449	geckodriver	INFO	Listening on 127.0.0.1:58647
+1510278951689	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1510278952368	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1510278952815	Marionette	INFO	Enabled via --marionette
+2017-11-09 19:55:54.340 plugin-container[3493:751206] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-09 19:55:54.340 plugin-container[3493:751206] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa507, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-09 19:55:54.340 plugin-container[3493:751206] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1510278954745	Marionette	INFO	Listening on port 58656
+1510278954760	Marionette	WARN	TLS certificate errors will be ignored for this session
+1510278954791	Marionette	DEBUG	Register listener.js for window 2147483649
+1510278955372	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1510278955823	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1510278955824	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1510278956467	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1510278957499	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1510278958168	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1510278958474	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1510278958654	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1510278958654	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1510278958785	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1510278959040	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1510278959463	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1514942824158	geckodriver	INFO	Listening on 127.0.0.1:55726
+1514942825490	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1514942826611	Marionette	INFO	Enabled via --marionette
+2018-01-02 19:27:08.049 plugin-container[12553:4495124] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa543, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-02 19:27:08.049 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.050 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.050 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.051 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.051 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.051 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.052 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.052 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.052 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.052 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.052 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.052 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.053 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.053 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.053 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.053 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.053 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.053 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.053 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-02 19:27:08.170 plugin-container[12553:4495124] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1514942828475	Marionette	INFO	Listening on port 55740
+1514942828576	Marionette	WARN	TLS certificate errors will be ignored for this session
+1514942828621	Marionette	DEBUG	Register listener.js for window 2147483649
+1514942829587	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1514942830518	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1514942830519	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1514942831217	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1514942832492	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1514942832796	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1514942833184	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1514942833407	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1514942833407	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1514942833730	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1514942833829	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1514942834807	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1514942844334	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514942844578	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514942844855	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514942844911	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1514942846751	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1514942846752	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1514942847395	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1514942847395	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1514942847395	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1514942847536	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/191"
+1514942849458	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/191"
+1514942861815	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514942862119	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514942862370	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514942862632	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1514942862680	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/special/191"
+1514942867960	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001175463	geckodriver	INFO	Listening on 127.0.0.1:55395
+1515001176854	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515001178066	Marionette	INFO	Enabled via --marionette
+2018-01-03 11:39:39.660 plugin-container[13054:4668084] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa537, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:39:39.661 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.662 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.663 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.663 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.671 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.677 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.684 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.684 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.684 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.684 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.684 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.684 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.685 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.685 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.685 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.685 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.685 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.685 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.685 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:39:39.741 plugin-container[13054:4668084] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515001180214	Marionette	INFO	Listening on port 55405
+1515001180257	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515001180304	Marionette	DEBUG	Register listener.js for window 2147483649
+1515001181158	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515001181591	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515001181591	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515001182168	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1515001183646	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1515001188579	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1515001188939	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001198483	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001198730	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001199038	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001199094	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515001201094	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515001201094	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515001201765	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1515001201765	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1515001201765	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1515001201766	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1515001201940	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/191"
+1515001203584	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/191"
+1515001215938	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001216255	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001216508	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001216776	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001216828	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/special/191"
+1515001222091	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001323401	geckodriver	INFO	Listening on 127.0.0.1:56289
+1515001323652	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515001324260	Marionette	INFO	Enabled via --marionette
+2018-01-03 11:42:05.113 plugin-container[13079:4670806] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa34b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:42:05.113 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.113 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.113 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.114 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.114 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.115 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.115 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.115 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.115 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.115 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.115 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.115 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.116 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.116 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.116 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.116 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.116 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.116 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.116 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:42:05.118 plugin-container[13079:4670806] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515001325566	Marionette	INFO	Listening on port 56293
+1515001325664	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515001325709	Marionette	DEBUG	Register listener.js for window 2147483649
+1515001326435	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515001326863	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515001326864	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515001327435	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1515001328851	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1515001329737	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1515001330187	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1515001330400	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1515001330400	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1515001330780	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515001330781	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1515001330898	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515001331780	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515001341311	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001341566	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001341851	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001341903	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515001343964	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515001343964	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515001344644	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1515001344645	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1515001344645	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483667"
+1515001344645	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1515001344929	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/191"
+1515001346953	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/191"
+1515001359293	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001359605	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001359863	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001360131	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001360183	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/special/191"
+1515001365397	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001499420	geckodriver	INFO	Listening on 127.0.0.1:57304
+1515001500604	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515001501270	Marionette	INFO	Enabled via --marionette
+2018-01-03 11:45:02.260 plugin-container[13099:4673725] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa34b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 11:45:02.260 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.260 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.261 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.261 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.262 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.262 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.262 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.262 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.263 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.263 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.263 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.264 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.264 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.264 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.264 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.264 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.264 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.265 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.265 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 11:45:02.267 plugin-container[13099:4673725] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515001502639	Marionette	INFO	Listening on port 57314
+1515001502714	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515001502761	Marionette	DEBUG	Register listener.js for window 2147483649
+1515001503435	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515001503902	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515001503902	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515001504495	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1515001505814	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1515001507094	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1515001507422	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1515001507623	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1515001507623	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1515001508009	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515001508010	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515001508011	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1515001508011	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483660"
+1515001508818	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515001518339	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001518591	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001518876	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001518930	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515001521468	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515001521468	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515001522672	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/191"
+1515001522690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1515001522690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1515001522690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1515001522690	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1515001524527	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/191"
+1515001536868	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001537183	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001537438	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001537721	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515001537778	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/special/191"
+1515001541590	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/cart/special/191"
+1515001541590	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/cart/special/191"
+1515001542325	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/customize/korfactor-us"
+1515001542408	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483677"
+1515001542408	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483675"
+1515001542408	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483679"
+1515001542409	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1515001542409	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1515001543904	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/customize/korfactor-us"
+1515024362584	geckodriver	INFO	Listening on 127.0.0.1:63697
+1515024363904	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515024365008	Marionette	INFO	Enabled via --marionette
+2018-01-03 18:06:06.433 plugin-container[13705:4827589] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa64b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 18:06:06.433 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.434 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.434 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.434 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.435 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.435 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.435 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.435 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.435 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.436 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.436 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.436 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.436 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.436 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.437 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.437 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.437 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.437 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.437 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:06:06.502 plugin-container[13705:4827589] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515024366909	Marionette	INFO	Listening on port 63711
+1515024366953	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515024367001	Marionette	DEBUG	Register listener.js for window 2147483649
+1515024367609	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515024368160	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515024368160	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515024368674	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1515024369875	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1515024370474	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1515024370883	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1515024380437	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024380687	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024380970	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024381024	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515024383029	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515024383030	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515024383599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1515024383599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1515024383599	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1515024383782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/191"
+1515024385569	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/191"
+1515024397903	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024398226	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024398524	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024398790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024398842	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/special/191"
+1515024404048	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024589514	geckodriver	INFO	Listening on 127.0.0.1:64944
+1515024589637	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515024590565	Marionette	INFO	Enabled via --marionette
+2018-01-03 18:09:51.866 plugin-container[13718:4829742] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa34b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 18:09:51.867 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.867 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.867 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.867 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.868 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.869 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.869 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.869 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.869 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.870 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.870 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.870 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.871 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.871 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.871 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.872 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.872 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.872 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.872 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 18:09:51.902 plugin-container[13718:4829742] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515024592459	Marionette	INFO	Listening on port 64948
+1515024592517	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515024592564	Marionette	DEBUG	Register listener.js for window 2147483649
+1515024593118	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515024593655	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515024593655	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515024594197	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1515024595612	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1515024595874	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1515024596192	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1515024596387	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1515024596388	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1515024596662	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515024596782	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515024597653	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515024607172	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024607424	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024607710	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024607762	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515024610067	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515024610067	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515024610678	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1515024610678	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1515024610678	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1515024610678	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1515024610959	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/191"
+1515024612626	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/191"
+1515024624953	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024625263	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024625521	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024625787	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024625838	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/special/191"
+1515024629549	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/cart/special/191"
+1515024629549	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/cart/special/191"
+1515024630295	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/customize/korfactor-us"
+1515024630381	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1515024630381	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483669"
+1515024630381	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483674"
+1515024630382	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483676"
+1515024630382	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483678"
+1515024636071	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/customize/korfactor-us"
+1515024651637	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024656671	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/customize/korfactor-us"
+1515024661885	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515024672296	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028229850	geckodriver	INFO	Listening on 127.0.0.1:58806
+1515028231087	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515028231930	Marionette	INFO	Enabled via --marionette
+2018-01-03 19:10:33.131 plugin-container[13747:4847667] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa437, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 19:10:33.131 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.132 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.132 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.132 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.133 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.133 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.133 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.133 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.133 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.133 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.133 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.133 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.134 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.134 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.134 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.134 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.134 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.134 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.134 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:10:33.136 plugin-container[13747:4847667] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515028233568	Marionette	INFO	Listening on port 58812
+1515028233628	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515028233675	Marionette	DEBUG	Register listener.js for window 2147483649
+1515028234451	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515028234882	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515028234882	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515028235638	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1515028236958	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1515028238016	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1515028238450	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028247984	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028248240	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028248524	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028248578	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515028250400	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515028250400	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515028250983	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1515028250984	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1515028250984	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1515028251252	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/191"
+1515028253077	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/191"
+1515028265409	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028265731	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028265986	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028266257	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028266309	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/special/191"
+1515028271549	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1515028793374	geckodriver	INFO	Listening on 127.0.0.1:59134
+1515028793477	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515028794157	Marionette	INFO	Enabled via --marionette
+2018-01-03 19:19:55.056 plugin-container[13757:4850953] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa34b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 19:19:55.057 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.058 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.058 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.058 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.059 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.060 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.061 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.061 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.062 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.062 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.063 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.063 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.064 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.064 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.064 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.065 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.065 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.065 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.065 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:19:55.067 plugin-container[13757:4850953] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515028795609	Marionette	INFO	Listening on port 59138
+1515028795746	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515028795791	Marionette	DEBUG	Register listener.js for window 2147483649
+1515028796391	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515028796952	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515028796952	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515028797695	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1515028798781	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1515028800313	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1515028800652	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1515028800848	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1515028800849	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1515028801124	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515028801629	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515028802614	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515028812126	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028812378	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028812654	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028812711	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515028814629	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515028814630	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515028815275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1515028815275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1515028815275	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1515028815439	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/191"
+1515028817468	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/191"
+1515028829800	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028830111	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028830364	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028830630	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028830679	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/special/191"
+1515028836026	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028851545	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028856580	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/customize/korfactor-us"
+1515028861797	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515028872218	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029157930	geckodriver	INFO	Listening on 127.0.0.1:59523
+1515029158042	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515029158631	Marionette	INFO	Enabled via --marionette
+2018-01-03 19:25:59.406 plugin-container[13799:4853691] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa34b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 19:25:59.407 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.407 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.407 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.407 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.408 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.408 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.408 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.408 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.409 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.409 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.409 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.409 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.409 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.409 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.409 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.409 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.410 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.410 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.410 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:25:59.411 plugin-container[13799:4853691] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515029159980	Marionette	INFO	Listening on port 59527
+1515029160068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515029160113	Marionette	DEBUG	Register listener.js for window 2147483649
+1515029160736	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515029162450	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515029162450	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515029163875	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1515029165065	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1515029166705	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1515029167064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029176565	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029176819	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029177103	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029177157	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515029179405	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515029179405	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515029179838	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1515029179838	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1515029179838	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483668"
+1515029179839	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483670"
+1515029179839	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483672"
+1515029180108	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/191"
+1515029182045	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/191"
+1515029194401	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029194719	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029194978	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029195249	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029195301	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/special/191"
+1515029200636	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1515029933305	geckodriver	INFO	Listening on 127.0.0.1:59969
+1515029933378	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515029933791	Marionette	INFO	Enabled via --marionette
+2018-01-03 19:38:54.514 plugin-container[13816:4857765] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa453, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 19:38:54.515 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.515 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.515 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.515 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.516 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.516 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.516 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.516 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.516 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.516 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.517 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.517 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.517 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.517 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.517 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.517 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.517 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.517 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.518 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:38:54.519 plugin-container[13816:4857765] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515029934911	Marionette	INFO	Listening on port 59973
+1515029934979	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515029935026	Marionette	DEBUG	Register listener.js for window 2147483649
+1515029935547	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515029935978	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515029935978	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515029936498	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1515029937871	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1515029938735	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1515029939136	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029948657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029948909	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029949197	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029949253	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515029951218	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515029951218	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515029951718	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1515029951718	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1515029951718	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1515029952179	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/191"
+1515029953997	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/191"
+1515029966337	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029966645	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029966897	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029967163	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515029967213	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/special/191"
+1515029972547	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1515030218395	geckodriver	INFO	Listening on 127.0.0.1:60229
+1515030218472	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515030218888	Marionette	INFO	Enabled via --marionette
+2018-01-03 19:43:39.589 plugin-container[13837:4859853] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa44b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-03 19:43:39.590 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.590 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.590 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.590 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.591 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.591 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.591 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.591 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.591 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.592 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.592 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.592 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.592 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.592 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.592 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.592 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.593 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.593 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.593 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-03 19:43:39.594 plugin-container[13837:4859853] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515030219968	Marionette	INFO	Listening on port 60233
+1515030220074	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515030220120	Marionette	DEBUG	Register listener.js for window 2147483649
+1515030220701	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515030221211	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515030221211	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515030221947	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/science"
+1515030223248	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1515030224195	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/science"
+1515030224544	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/science"
+1515030224738	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/science"
+1515030224738	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/science"
+1515030225042	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515030225043	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1515030225065	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515030226003	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515030235748	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515030236004	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515030236287	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515030236343	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515030238244	Marionette	DEBUG	Received DOM event "pagehide" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515030238245	Marionette	DEBUG	Received DOM event "unload" for "https://deals.sixpackabs.com/desktop/science/main/step2"
+1515030238947	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1515030238947	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1515030238947	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483666"
+1515030239279	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://deals.sixpackabs.com/cart/special/191"
+1515030241142	Marionette	DEBUG	Received DOM event "pageshow" for "https://deals.sixpackabs.com/cart/special/191"
+1515030253485	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515030253818	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515030254077	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515030254339	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515030254391	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/special/191"
+1515030259600	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515030275134	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515030280180	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/customize/korfactor-us"
+1515030285397	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515030295816	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515030306237	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515030311273	Marionette	DEBUG	Received DOM event "beforeunload" for "https://deals.sixpackabs.com/cart/customize/sbs_reload"
+1515030316482	Marionette	DEBUG	Canceled page load listener because no navigation has been detected

@@ -1,0 +1,494 @@
+1501545311737	geckodriver	INFO	Listening on 127.0.0.1:54594
+1501545312860	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501545315626	Marionette	INFO	Listening on port 54600
+1501545315719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501545315871	Marionette	DEBUG	loaded listener.js
+1501545315899	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-31 18:55:15.946 plugin-container[22629:1623980] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-31 18:55:15.948 plugin-container[22629:1623980] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x902b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-31 18:55:15.948 plugin-container[22629:1623980] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501545316351	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501545316351	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501545317054	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501545317528	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501545317946	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501545318205	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501545318296	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501545320141	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501545353627	geckodriver	INFO	Listening on 127.0.0.1:54786
+1501545354702	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501545356300	Marionette	INFO	Listening on port 54792
+1501545356376	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501545356521	Marionette	DEBUG	loaded listener.js
+1501545356549	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-31 18:55:56.584 plugin-container[22644:1624532] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-31 18:55:56.585 plugin-container[22644:1624532] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x520f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-31 18:55:56.585 plugin-container[22644:1624532] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501545356954	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501545356955	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501545357553	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501545357877	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501545358279	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501545358442	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501545358524	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501545361089	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501545361251	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501545361295	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501545361301	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tr/"
+1501545361303	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1501545361410	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501545385504	Marionette	INFO	Ceased listening
+1501545387168	Marionette	INFO	Ceased listening
+1501545716080	geckodriver	INFO	Listening on 127.0.0.1:54997
+1501545717154	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501545718772	Marionette	INFO	Listening on port 55003
+1501545718834	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501545719000	Marionette	DEBUG	loaded listener.js
+1501545719029	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-31 19:01:59.073 plugin-container[22677:1626640] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-31 19:01:59.076 plugin-container[22677:1626640] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4c17, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-31 19:01:59.076 plugin-container[22677:1626640] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501545719476	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501545719476	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501545720339	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501545720599	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501545721013	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501545721869	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501545721952	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501545723849	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501545724010	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501545724014	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501545724018	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501545724066	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501545724070	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tr/"
+1501545724073	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1501545724169	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4400AB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1501546042716	Marionette	INFO	Ceased listening
+1501546324312	geckodriver	INFO	Listening on 127.0.0.1:55283
+1501546325386	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501546326980	Marionette	INFO	Listening on port 55289
+1501546327061	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501546327200	Marionette	DEBUG	loaded listener.js
+1501546327228	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-31 19:12:07.275 plugin-container[22712:1630609] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-31 19:12:07.278 plugin-container[22712:1630609] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f17, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-31 19:12:07.278 plugin-container[22712:1630609] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501546327672	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501546327672	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501546328358	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501546328631	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501546329062	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501546329386	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501546329980	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501546330743	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501546330900	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501546330940	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501546330946	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tr/"
+1501546330948	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1501546331057	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501546382393	geckodriver	INFO	Listening on 127.0.0.1:55447
+1501546383470	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501546385140	Marionette	INFO	Listening on port 55453
+1501546385248	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501546385379	Marionette	DEBUG	loaded listener.js
+1501546385407	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-31 19:13:05.444 plugin-container[22727:1631234] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-31 19:13:05.445 plugin-container[22727:1631234] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x501b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-31 19:13:05.445 plugin-container[22727:1631234] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501546385842	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501546385842	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501546386471	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501546386749	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501546387165	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501546387423	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501546387447	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501546388973	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501546392144	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501546392199	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501546392206	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tr/"
+1501546392209	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1501546392302	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501546483258	Marionette	INFO	Ceased listening
+1501546484879	Marionette	INFO	Ceased listening
+1501546717185	geckodriver	INFO	Listening on 127.0.0.1:55760
+1501546718313	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501546720546	Marionette	INFO	Listening on port 55766
+1501546720627	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501546720792	Marionette	DEBUG	loaded listener.js
+1501546720819	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-31 19:18:40.865 plugin-container[22751:1634142] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-31 19:18:40.867 plugin-container[22751:1634142] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4d23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-31 19:18:40.868 plugin-container[22751:1634142] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501546721270	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501546721271	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501546721890	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501546722128	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501546722577	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501546722776	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501546723353	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501546724127	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501546724289	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501546724328	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501546724335	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.facebook.com/tr/"
+1501546724337	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1501546724449	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501546780437	Marionette	INFO	Ceased listening
+1501547089052	geckodriver	INFO	Listening on 127.0.0.1:55982
+1501547090127	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501547091761	Marionette	INFO	Listening on port 55988
+1501547091823	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501547092003	Marionette	DEBUG	loaded listener.js
+1501547092031	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-31 19:24:52.078 plugin-container[22768:1636737] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-31 19:24:52.080 plugin-container[22768:1636737] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e27, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-31 19:24:52.080 plugin-container[22768:1636737] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501547092487	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501547092488	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501547093109	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501547093454	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501547093845	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501547094056	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501547094297	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501547095922	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501547586205	geckodriver	INFO	Listening on 127.0.0.1:56275
+1501547587280	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501547588863	Marionette	INFO	Listening on port 56281
+1501547588947	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501547589086	Marionette	DEBUG	loaded listener.js
+1501547589115	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-31 19:33:09.160 plugin-container[22807:1639063] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f33, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-31 19:33:09.162 plugin-container[22807:1639063] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9123, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-31 19:33:09.162 plugin-container[22807:1639063] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501547589664	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501547589665	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501547590556	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501547590851	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501547591369	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501547591518	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501547591523	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501547592630	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501547592723	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501547592786	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501547593032	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501547593032	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501547593441	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501547593442	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1501547593654	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1501547646635	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501601970512	geckodriver	INFO	Listening on 127.0.0.1:63751
+1501601971679	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501601974583	Marionette	INFO	Listening on port 63757
+1501601974656	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501601974806	Marionette	DEBUG	loaded listener.js
+1501601974834	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-01 10:39:34.870 plugin-container[23816:1764271] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-01 10:39:34.870 plugin-container[23816:1764271] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9027, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-01 10:39:34.870 plugin-container[23816:1764271] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501601975264	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501601975264	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501601975890	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501601976226	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501601976599	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501601976774	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501601976818	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 63: Error: WebGL warning: Disallowing antialiased backbuffers due to blacklisting.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 66: Error: WebGL warning: validateProgram: Implemented as a no-op on Mac to work around crashes.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: This operation requires zeroing texture data. This is slow.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to initialize texture data.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL warning: drawArrays: Failed to resolve textures for draw.
+JavaScript warning: https://www.youtube.com/yts/jsbin/player-vflrwQIQw/en_US/webgl.js, line 120: Error: WebGL: No further warnings will be reported for this WebGL context. (already reported 32 warnings)
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501601978292	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501601978418	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501601978631	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501601978632	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501601979112	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1501601979122	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501601980042	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1501601982719	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501601983010	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501601983250	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1501601985136	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1501601985137	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1501601985226	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1501601985227	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483661"
+1501601985470	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/leptin"
+1501601985745	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/leptin"
+1501601985748	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/leptin"
+1501601986215	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=cf93823f1bf97d8206d7b9cad90557cc"
+1501602054073	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=cf93823f1bf97d8206d7b9cad90557cc"
+1501602054080	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/leptin"
+1501602249310	Marionette	INFO	Ceased listening
+1501602251327	Marionette	INFO	Ceased listening
+1501602253525	Marionette	INFO	Ceased listening
+1501625201067	geckodriver	INFO	Listening on 127.0.0.1:50637
+1501625202202	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501625204735	Marionette	INFO	Listening on port 50646
+1501625204804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501625204978	Marionette	DEBUG	loaded listener.js
+1501625205006	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-01 17:06:45.040 plugin-container[597:30717] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-01 17:06:45.041 plugin-container[597:30717] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9123, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-01 17:06:45.041 plugin-container[597:30717] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501625205361	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501625205361	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501625206000	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501625206228	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501625206666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501625207023	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501625207033	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501625208110	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501625208206	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501625208258	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501625208446	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501625208446	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501625208939	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1501625208948	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501625208949	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1501625210177	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1501625212795	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501625213063	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501625213285	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1501625215171	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1501625215172	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1501625215537	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/leptin"
+1501625215829	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/leptin"
+1501625215832	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/leptin"
+1501625215972	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=6d44192eb8f02159abcabd10ed7939ef"
+1501625226328	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483664"
+1501625226329	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483663"
+1501625226330	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483649"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501632098157	geckodriver	INFO	Listening on 127.0.0.1:52886
+1501632099328	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501632101127	Marionette	INFO	Listening on port 52892
+1501632101207	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501632101336	Marionette	DEBUG	loaded listener.js
+1501632101363	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-01 19:01:41.400 plugin-container[1050:63213] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-01 19:01:41.402 plugin-container[1050:63213] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-01 19:01:41.402 plugin-container[1050:63213] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501632101894	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501632101894	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501632102737	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501632102918	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501632103312	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501632103555	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501632103577	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/seB9NNkP9wE?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501632105104	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501632105225	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501632105441	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501632105441	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1501632105891	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501632105980	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1501632107046	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1501632109725	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501632110003	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501632110345	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1501632111981	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1501632111982	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1501632112089	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1501632112400	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/leptin"
+1501632112566	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/leptin"
+1501632112570	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/leptin"
+1501632113255	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=6d44192eb8f02159abcabd10ed7939ef"
+1501632189492	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=6d44192eb8f02159abcabd10ed7939ef"
+1501632189502	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/leptin"
+1501632191835	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501632192162	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501632192428	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501632192684	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501632192912	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501632192985	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/leptin"
+1501632198190	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-5F82BKR, line 97: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/leptin_bundlepack, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-5F82BKR, line 97: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/leptin_bundlepack, line 1: ReferenceError: _etmc is not defined
+1501632208561	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501632209615	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/leptin_bundlepack"
+1501632214824	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-5F82BKR, line 97: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/leptin_insanehomefatloss, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-5F82BKR, line 97: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/leptin_insanehomefatloss, line 1: ReferenceError: _etmc is not defined
+1501632220006	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/leptin_insanehomefatloss"
+1501632225103	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-5F82BKR, line 97: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/leptin_sixpackshortcuts, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-5F82BKR, line 97: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/leptin_sixpackshortcuts, line 1: ReferenceError: _etmc is not defined
+1501632230226	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/leptin_sixpackshortcuts"
+1501632235392	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-5F82BKR, line 97: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/leptin_complete, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-5F82BKR, line 97: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/leptin_complete, line 1: ReferenceError: _etmc is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501635483155	Marionette	INFO	Ceased listening
+1509574559109	geckodriver	INFO	Listening on 127.0.0.1:60054
+1509574560218	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509574560539	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509574560808	Marionette	INFO	Enabled via --marionette
+2017-11-01 17:16:01.604 plugin-container[7101:1874256] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-01 17:16:01.605 plugin-container[7101:1874256] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9e2b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-01 17:16:01.605 plugin-container[7101:1874256] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1509574562061	Marionette	INFO	Listening on port 60060
+1509574562107	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509574562137	Marionette	DEBUG	Register listener.js for window 2147483649
+1509574562156	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509574562604	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509574562605	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509574563554	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1509574563729	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1509574565532	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1509575469930	geckodriver	INFO	Listening on 127.0.0.1:64054
+1509575471104	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509575471706	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509575471995	Marionette	INFO	Enabled via --marionette
+2017-11-01 17:31:13.153 plugin-container[7133:1878630] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9f3b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-01 17:31:13.154 plugin-container[7133:1878630] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa127, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-01 17:31:13.154 plugin-container[7133:1878630] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1509575473633	Marionette	INFO	Listening on port 64064
+1509575473728	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509575473760	Marionette	DEBUG	Register listener.js for window 2147483649
+1509575473775	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509575474212	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509575474212	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509575475443	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1509575475633	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483655"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1509575477006	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1509575477187	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1509575477407	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1509575477408	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/leptin/main/index/index"
+1509575477568	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509575477918	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1509575478438	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1509575481152	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509575481442	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509575481628	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1509575483449	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1509575483450	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/leptin/main/step2"
+1509575483775	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/97"
+1509575485104	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/97"
+1509575487429	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509575487748	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509575488010	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509575488273	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509575488500	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509575488548	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/special/97"
+1509575493753	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509575504107	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509575505168	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/leptin_bundlepack"
+1509575510382	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://sixpackshortcuts.com/cart/customize/leptin_insanehomefatloss, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://sixpackshortcuts.com/cart/customize/leptin_insanehomefatloss, line 1: ReferenceError: _etmc is not defined
+1509575515604	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/leptin_insanehomefatloss"
+1509575520663	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-5F82BKR, line 121: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/leptin_sixpackshortcuts, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-5F82BKR, line 121: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/leptin_sixpackshortcuts, line 1: ReferenceError: _etmc is not defined
+1509575525756	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/leptin_sixpackshortcuts"
+1509575530948	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://sixpackshortcuts.com/cart/customize/leptin_complete, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://sixpackshortcuts.com/cart/customize/leptin_complete, line 1: ReferenceError: _etmc is not defined

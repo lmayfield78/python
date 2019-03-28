@@ -1,0 +1,663 @@
+1501113427514	geckodriver	INFO	Listening on 127.0.0.1:51671
+1501113428692	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501113431280	Marionette	INFO	Listening on port 51680
+1501113431338	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501113431501	Marionette	DEBUG	loaded listener.js
+1501113431528	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-26 18:57:11.574 plugin-container[874:32285] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-26 18:57:11.576 plugin-container[874:32285] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x4f1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-26 18:57:11.576 plugin-container[874:32285] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501113432480	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501113432480	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501113433454	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501113433840	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501113434358	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501113434701	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501113434783	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501113437546	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501113462992	geckodriver	INFO	Listening on 127.0.0.1:51877
+1501113464068	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501113465714	Marionette	INFO	Listening on port 51886
+1501113465804	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501113465975	Marionette	DEBUG	loaded listener.js
+1501113466004	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-26 18:57:46.039 plugin-container[892:32711] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8d3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-26 18:57:46.040 plugin-container[892:32711] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e23, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-26 18:57:46.040 plugin-container[892:32711] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501113466702	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501113466703	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501113467350	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501113467744	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501113468404	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501113468601	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501113468830	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501113469848	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501113470134	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501113722496	geckodriver	INFO	Listening on 127.0.0.1:52202
+1501113723566	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501113725192	Marionette	INFO	Listening on port 52211
+1501113725263	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501113725405	Marionette	DEBUG	loaded listener.js
+1501113725433	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-26 19:02:05.477 plugin-container[944:34266] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x913f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-26 19:02:05.480 plugin-container[944:34266] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x531b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-26 19:02:05.480 plugin-container[944:34266] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501113725970	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501113725970	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501113726639	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501113727150	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501113727562	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501113727720	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501113727798	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501113729157	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501113729455	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501113730694	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501173759796	Marionette	INFO	Ceased listening
+1501173762434	Marionette	INFO	Ceased listening
+1501173764673	Marionette	INFO	Ceased listening
+1501175582054	geckodriver	INFO	Listening on 127.0.0.1:64488
+1501175583256	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501175586169	Marionette	INFO	Listening on port 64497
+1501175586222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501175586388	Marionette	DEBUG	loaded listener.js
+1501175586416	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-27 12:13:06.451 plugin-container[3800:293515] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 12:13:06.452 plugin-container[3800:293515] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f1f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 12:13:06.452 plugin-container[3800:293515] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501175586850	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501175586850	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501175587620	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501175588298	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501175588677	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501175589033	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501175589041	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501175590410	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501175590709	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501175591946	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501175592143	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501175592144	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501175592330	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501175592358	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501175593569	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501175619527	Marionette	INFO	Ceased listening
+1501176192740	geckodriver	INFO	Listening on 127.0.0.1:64845
+1501176193816	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501176195419	Marionette	INFO	Listening on port 64854
+1501176195495	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501176195645	Marionette	DEBUG	loaded listener.js
+1501176195673	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-27 12:23:15.719 plugin-container[3821:300839] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8c3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 12:23:15.722 plugin-container[3821:300839] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e17, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 12:23:15.722 plugin-container[3821:300839] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501176196121	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501176196121	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501176196640	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501176197250	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501176197707	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501176198054	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501176198652	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501176199445	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501176199748	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501176200996	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501176203255	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501176203810	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501176204073	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501176204189	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501176206145	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501176206146	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501176206553	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/reload"
+1501176206626	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/ads/conversion/970599323/?random=1352447733&cv=8&fst=*&num=1&fmt=2&label=Sft5CPnAvVgQm9fozgM&bg=ffffff&hl=en&guid=ON&u_h=1440&u_w=2560&u_ah=1337&u_aw=2560&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://sixpackshortcuts.com/cart/reload&ref=https://sixpackshortcuts.com/desktop/reload/main/step2&tiba=Almost%20Done...&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0&cdct=2&is_vtc=1&ocp_id=jiF6WbikE9r8vgLTpqXwDw&random=1566331742&fpvtc=/970599323/%3Frandom%3D1311257625%26cv%3D8%26fst%3D*%26num%3D1%26fmt%3D2%26label%3DSft5CPnAvVgQm9fozgM%26bg%3Dffffff%26hl%3Den%26guid%3DON%26u_h%3D1440%26u_w%3D2560%26u_ah%3D1337%26u_aw%3D2560%26u_cd%3D24%26u_his%3D3%26u_tz%3D-300%26u_java%3Dfalse%26u_nplug%3D0%26u_nmime%3D0%26frm%3D0%26url%3Dhttps://sixpackshortcuts.com/cart/reload%26ref%3Dhttps://sixpackshortcuts.com/desktop/reload/main/step2%26tiba%3DAlmost%2520Done...%26ctc_id%3DCAIVAgAAAB0CAAAA%26ct_cookie_present%3Dfalse%26cdct%3D2%26is_vtc%3D1"
+1501176206631	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/ads/conversion/970599323/?random=1352447733&cv=8&fst=*&num=1&fmt=2&label=Sft5CPnAvVgQm9fozgM&bg=ffffff&hl=en&guid=ON&u_h=1440&u_w=2560&u_ah=1337&u_aw=2560&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://sixpackshortcuts.com/cart/reload&ref=https://sixpackshortcuts.com/desktop/reload/main/step2&tiba=Almost%20Done...&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0&cdct=2&is_vtc=1&ocp_id=jiF6WbikE9r8vgLTpqXwDw&random=1566331742&fpvtc=/970599323/%3Frandom%3D1311257625%26cv%3D8%26fst%3D*%26num%3D1%26fmt%3D2%26label%3DSft5CPnAvVgQm9fozgM%26bg%3Dffffff%26hl%3Den%26guid%3DON%26u_h%3D1440%26u_w%3D2560%26u_ah%3D1337%26u_aw%3D2560%26u_cd%3D24%26u_his%3D3%26u_tz%3D-300%26u_java%3Dfalse%26u_nplug%3D0%26u_nmime%3D0%26frm%3D0%26url%3Dhttps://sixpackshortcuts.com/cart/reload%26ref%3Dhttps://sixpackshortcuts.com/desktop/reload/main/step2%26tiba%3DAlmost%2520Done...%26ctc_id%3DCAIVAgAAAB0CAAAA%26ct_cookie_present%3Dfalse%26cdct%3D2%26is_vtc%3D1"
+1501176207034	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/reload"
+1501176207036	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/reload"
+1501176207410	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=d740db4d0d370a82660ebace821948b9"
+1501176207424	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=d740db4d0d370a82660ebace821948b9"
+1501176207703	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/reload"
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+JavaScript error: https://s.ytimg.com/yts/jsbin/www-widgetapi-vflyiGtkL/www-widgetapi.js, line 109: TypeError: this.f is null
+[Child 3821] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 3821] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+[Child 3821] WARNING: pipe error: Broken pipe: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 702
+1501196141731	geckodriver	INFO	Listening on 127.0.0.1:51594
+1501196142830	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501196144670	Marionette	INFO	Listening on port 51607
+1501196144727	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501196144892	Marionette	DEBUG	loaded listener.js
+1501196144923	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-27 17:55:44.965 plugin-container[4667:423425] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 17:55:44.967 plugin-container[4667:423425] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5417, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 17:55:44.967 plugin-container[4667:423425] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501196146357	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501196146358	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501196148369	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196148792	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196149476	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501196149606	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501196149625	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501196151462	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196151752	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196152975	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196153100	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196153101	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196153282	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501196153306	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196154156	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196156457	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196157046	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196157317	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196157444	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196159162	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196159163	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196159395	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1501196159595	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/reload"
+1501196159739	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/ads/conversion/970599323/?random=79069120&cv=8&fst=*&num=1&fmt=2&label=Sft5CPnAvVgQm9fozgM&bg=ffffff&hl=en&guid=ON&u_h=1440&u_w=2560&u_ah=1337&u_aw=2560&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://sixpackshortcuts.com/cart/reload&ref=https://sixpackshortcuts.com/desktop/reload/main/step2&tiba=Almost%20Done...&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0&cdct=2&is_vtc=1&ocp_id=f296WcLSGdHapgPNgazICw&random=3358131340&fpvtc=/970599323/%3Frandom%3D709733165%26cv%3D8%26fst%3D*%26num%3D1%26fmt%3D2%26label%3DSft5CPnAvVgQm9fozgM%26bg%3Dffffff%26hl%3Den%26guid%3DON%26u_h%3D1440%26u_w%3D2560%26u_ah%3D1337%26u_aw%3D2560%26u_cd%3D24%26u_his%3D3%26u_tz%3D-300%26u_java%3Dfalse%26u_nplug%3D0%26u_nmime%3D0%26frm%3D0%26url%3Dhttps://sixpackshortcuts.com/cart/reload%26ref%3Dhttps://sixpackshortcuts.com/desktop/reload/main/step2%26tiba%3DAlmost%2520Done...%26ctc_id%3DCAIVAgAAAB0CAAAA%26ct_cookie_present%3Dfalse%26cdct%3D2%26is_vtc%3D1"
+1501196159742	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/ads/conversion/970599323/?random=79069120&cv=8&fst=*&num=1&fmt=2&label=Sft5CPnAvVgQm9fozgM&bg=ffffff&hl=en&guid=ON&u_h=1440&u_w=2560&u_ah=1337&u_aw=2560&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://sixpackshortcuts.com/cart/reload&ref=https://sixpackshortcuts.com/desktop/reload/main/step2&tiba=Almost%20Done...&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0&cdct=2&is_vtc=1&ocp_id=f296WcLSGdHapgPNgazICw&random=3358131340&fpvtc=/970599323/%3Frandom%3D709733165%26cv%3D8%26fst%3D*%26num%3D1%26fmt%3D2%26label%3DSft5CPnAvVgQm9fozgM%26bg%3Dffffff%26hl%3Den%26guid%3DON%26u_h%3D1440%26u_w%3D2560%26u_ah%3D1337%26u_aw%3D2560%26u_cd%3D24%26u_his%3D3%26u_tz%3D-300%26u_java%3Dfalse%26u_nplug%3D0%26u_nmime%3D0%26frm%3D0%26url%3Dhttps://sixpackshortcuts.com/cart/reload%26ref%3Dhttps://sixpackshortcuts.com/desktop/reload/main/step2%26tiba%3DAlmost%2520Done...%26ctc_id%3DCAIVAgAAAB0CAAAA%26ct_cookie_present%3Dfalse%26cdct%3D2%26is_vtc%3D1"
+1501196159921	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/reload"
+1501196159924	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/reload"
+1501196160083	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=d740db4d0d370a82660ebace821948b9"
+1501196160085	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=d740db4d0d370a82660ebace821948b9"
+1501196160601	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/reload"
+1501196160919	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196161247	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196451067	Marionette	INFO	Ceased listening
+1501196454484	Marionette	INFO	Ceased listening
+1501196461630	geckodriver	INFO	Listening on 127.0.0.1:53316
+1501196462794	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501196465090	Marionette	INFO	Listening on port 53326
+1501196465192	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501196465327	Marionette	DEBUG	loaded listener.js
+1501196465358	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-27 18:01:05.407 plugin-container[4702:425580] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 18:01:05.409 plugin-container[4702:425580] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x5113, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 18:01:05.409 plugin-container[4702:425580] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501196465812	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501196465812	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501196468451	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196468906	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196469585	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501196469799	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501196469953	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501196471880	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196472171	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196473414	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196473615	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196473616	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196473825	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1501196473857	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196475926	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196478206	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196478786	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196479046	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196479170	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196481460	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196481461	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196481895	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/reload"
+1501196482066	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/ads/conversion/970599323/?random=1282841537&cv=8&fst=*&num=1&fmt=2&label=Sft5CPnAvVgQm9fozgM&bg=ffffff&hl=en&guid=ON&u_h=1440&u_w=2560&u_ah=1337&u_aw=2560&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://sixpackshortcuts.com/cart/reload&ref=https://sixpackshortcuts.com/desktop/reload/main/step2&tiba=Almost%20Done...&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0&cdct=2&is_vtc=1&ocp_id=wXB6Wee-KMGoBc7Yl-AG&random=1366086842&fpvtc=/970599323/%3Frandom%3D999204722%26cv%3D8%26fst%3D*%26num%3D1%26fmt%3D2%26label%3DSft5CPnAvVgQm9fozgM%26bg%3Dffffff%26hl%3Den%26guid%3DON%26u_h%3D1440%26u_w%3D2560%26u_ah%3D1337%26u_aw%3D2560%26u_cd%3D24%26u_his%3D3%26u_tz%3D-300%26u_java%3Dfalse%26u_nplug%3D0%26u_nmime%3D0%26frm%3D0%26url%3Dhttps://sixpackshortcuts.com/cart/reload%26ref%3Dhttps://sixpackshortcuts.com/desktop/reload/main/step2%26tiba%3DAlmost%2520Done...%26ctc_id%3DCAIVAgAAAB0CAAAA%26ct_cookie_present%3Dfalse%26cdct%3D2%26is_vtc%3D1"
+1501196482070	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/ads/conversion/970599323/?random=1282841537&cv=8&fst=*&num=1&fmt=2&label=Sft5CPnAvVgQm9fozgM&bg=ffffff&hl=en&guid=ON&u_h=1440&u_w=2560&u_ah=1337&u_aw=2560&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://sixpackshortcuts.com/cart/reload&ref=https://sixpackshortcuts.com/desktop/reload/main/step2&tiba=Almost%20Done...&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0&cdct=2&is_vtc=1&ocp_id=wXB6Wee-KMGoBc7Yl-AG&random=1366086842&fpvtc=/970599323/%3Frandom%3D999204722%26cv%3D8%26fst%3D*%26num%3D1%26fmt%3D2%26label%3DSft5CPnAvVgQm9fozgM%26bg%3Dffffff%26hl%3Den%26guid%3DON%26u_h%3D1440%26u_w%3D2560%26u_ah%3D1337%26u_aw%3D2560%26u_cd%3D24%26u_his%3D3%26u_tz%3D-300%26u_java%3Dfalse%26u_nplug%3D0%26u_nmime%3D0%26frm%3D0%26url%3Dhttps://sixpackshortcuts.com/cart/reload%26ref%3Dhttps://sixpackshortcuts.com/desktop/reload/main/step2%26tiba%3DAlmost%2520Done...%26ctc_id%3DCAIVAgAAAB0CAAAA%26ct_cookie_present%3Dfalse%26cdct%3D2%26is_vtc%3D1"
+1501196482257	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/reload"
+1501196482259	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/reload"
+1501196482408	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=d740db4d0d370a82660ebace821948b9"
+1501196482485	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=d740db4d0d370a82660ebace821948b9"
+1501196483092	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/reload"
+1501196483409	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196483727	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196484007	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196484287	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196556206	Marionette	INFO	Ceased listening
+1501196569760	geckodriver	INFO	Listening on 127.0.0.1:54055
+1501196570830	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501196572447	Marionette	INFO	Listening on port 54065
+1501196572514	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501196572704	Marionette	DEBUG	loaded listener.js
+1501196572733	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-27 18:02:52.783 plugin-container[4722:426534] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x524b, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 18:02:52.786 plugin-container[4722:426534] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x531b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 18:02:52.786 plugin-container[4722:426534] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501196573152	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501196573153	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501196574434	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196575043	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196575457	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501196575672	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501196575740	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501196578228	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196578320	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196578363	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196578514	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196579754	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196582028	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196582641	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196582948	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196583115	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196585421	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196585422	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196585665	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483665"
+1501196585856	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/reload"
+1501196586205	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/ads/conversion/970599323/?random=632668095&cv=8&fst=*&num=1&fmt=2&label=Sft5CPnAvVgQm9fozgM&bg=ffffff&hl=en&guid=ON&u_h=1440&u_w=2560&u_ah=1337&u_aw=2560&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://sixpackshortcuts.com/cart/reload&ref=https://sixpackshortcuts.com/desktop/reload/main/step2&tiba=Almost%20Done...&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0&cdct=2&is_vtc=1&ocp_id=KXF6WeHZKc_yvgKVupbgDA&random=3629092081&fpvtc=/970599323/%3Frandom%3D1859794727%26cv%3D8%26fst%3D*%26num%3D1%26fmt%3D2%26label%3DSft5CPnAvVgQm9fozgM%26bg%3Dffffff%26hl%3Den%26guid%3DON%26u_h%3D1440%26u_w%3D2560%26u_ah%3D1337%26u_aw%3D2560%26u_cd%3D24%26u_his%3D3%26u_tz%3D-300%26u_java%3Dfalse%26u_nplug%3D0%26u_nmime%3D0%26frm%3D0%26url%3Dhttps://sixpackshortcuts.com/cart/reload%26ref%3Dhttps://sixpackshortcuts.com/desktop/reload/main/step2%26tiba%3DAlmost%2520Done...%26ctc_id%3DCAIVAgAAAB0CAAAA%26ct_cookie_present%3Dfalse%26cdct%3D2%26is_vtc%3D1"
+1501196586210	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/ads/conversion/970599323/?random=632668095&cv=8&fst=*&num=1&fmt=2&label=Sft5CPnAvVgQm9fozgM&bg=ffffff&hl=en&guid=ON&u_h=1440&u_w=2560&u_ah=1337&u_aw=2560&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://sixpackshortcuts.com/cart/reload&ref=https://sixpackshortcuts.com/desktop/reload/main/step2&tiba=Almost%20Done...&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0&cdct=2&is_vtc=1&ocp_id=KXF6WeHZKc_yvgKVupbgDA&random=3629092081&fpvtc=/970599323/%3Frandom%3D1859794727%26cv%3D8%26fst%3D*%26num%3D1%26fmt%3D2%26label%3DSft5CPnAvVgQm9fozgM%26bg%3Dffffff%26hl%3Den%26guid%3DON%26u_h%3D1440%26u_w%3D2560%26u_ah%3D1337%26u_aw%3D2560%26u_cd%3D24%26u_his%3D3%26u_tz%3D-300%26u_java%3Dfalse%26u_nplug%3D0%26u_nmime%3D0%26frm%3D0%26url%3Dhttps://sixpackshortcuts.com/cart/reload%26ref%3Dhttps://sixpackshortcuts.com/desktop/reload/main/step2%26tiba%3DAlmost%2520Done...%26ctc_id%3DCAIVAgAAAB0CAAAA%26ct_cookie_present%3Dfalse%26cdct%3D2%26is_vtc%3D1"
+1501196586211	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/reload"
+1501196586213	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/reload"
+1501196586663	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=d740db4d0d370a82660ebace821948b9"
+1501196586668	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=d740db4d0d370a82660ebace821948b9"
+1501196586740	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/reload"
+1501196587076	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196587403	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196587674	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196587956	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196588181	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196711694	Marionette	INFO	Ceased listening
+1501196715596	geckodriver	INFO	Listening on 127.0.0.1:54973
+1501196716670	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501196718256	Marionette	INFO	Listening on port 54983
+1501196718343	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501196718481	Marionette	DEBUG	loaded listener.js
+1501196718510	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-27 18:05:18.556 plugin-container[4749:427709] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9033, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 18:05:18.559 plugin-container[4749:427709] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x9323, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 18:05:18.559 plugin-container[4749:427709] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501196718937	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501196718937	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501196719666	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196720235	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196720641	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501196720929	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501196721129	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501196722802	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196723092	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196724327	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196726594	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196727213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196727496	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196727627	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196729390	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196729390	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196729774	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/reload"
+1501196730063	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/ads/conversion/970599323/?random=1933389523&cv=8&fst=*&num=1&fmt=2&label=Sft5CPnAvVgQm9fozgM&bg=ffffff&hl=en&guid=ON&u_h=1440&u_w=2560&u_ah=1337&u_aw=2560&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://sixpackshortcuts.com/cart/reload&ref=https://sixpackshortcuts.com/desktop/reload/main/step2&tiba=Almost%20Done...&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0&cdct=2&is_vtc=1&ocp_id=uXF6Wf74Icex_AGp5ZaACA&random=38622111&fpvtc=/970599323/%3Frandom%3D70398124%26cv%3D8%26fst%3D*%26num%3D1%26fmt%3D2%26label%3DSft5CPnAvVgQm9fozgM%26bg%3Dffffff%26hl%3Den%26guid%3DON%26u_h%3D1440%26u_w%3D2560%26u_ah%3D1337%26u_aw%3D2560%26u_cd%3D24%26u_his%3D3%26u_tz%3D-300%26u_java%3Dfalse%26u_nplug%3D0%26u_nmime%3D0%26frm%3D0%26url%3Dhttps://sixpackshortcuts.com/cart/reload%26ref%3Dhttps://sixpackshortcuts.com/desktop/reload/main/step2%26tiba%3DAlmost%2520Done...%26ctc_id%3DCAIVAgAAAB0CAAAA%26ct_cookie_present%3Dfalse%26cdct%3D2%26is_vtc%3D1"
+1501196730068	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/ads/conversion/970599323/?random=1933389523&cv=8&fst=*&num=1&fmt=2&label=Sft5CPnAvVgQm9fozgM&bg=ffffff&hl=en&guid=ON&u_h=1440&u_w=2560&u_ah=1337&u_aw=2560&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://sixpackshortcuts.com/cart/reload&ref=https://sixpackshortcuts.com/desktop/reload/main/step2&tiba=Almost%20Done...&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0&cdct=2&is_vtc=1&ocp_id=uXF6Wf74Icex_AGp5ZaACA&random=38622111&fpvtc=/970599323/%3Frandom%3D70398124%26cv%3D8%26fst%3D*%26num%3D1%26fmt%3D2%26label%3DSft5CPnAvVgQm9fozgM%26bg%3Dffffff%26hl%3Den%26guid%3DON%26u_h%3D1440%26u_w%3D2560%26u_ah%3D1337%26u_aw%3D2560%26u_cd%3D24%26u_his%3D3%26u_tz%3D-300%26u_java%3Dfalse%26u_nplug%3D0%26u_nmime%3D0%26frm%3D0%26url%3Dhttps://sixpackshortcuts.com/cart/reload%26ref%3Dhttps://sixpackshortcuts.com/desktop/reload/main/step2%26tiba%3DAlmost%2520Done...%26ctc_id%3DCAIVAgAAAB0CAAAA%26ct_cookie_present%3Dfalse%26cdct%3D2%26is_vtc%3D1"
+1501196730133	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=d740db4d0d370a82660ebace821948b9"
+1501196730158	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=d740db4d0d370a82660ebace821948b9"
+1501196730199	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/reload"
+1501196730201	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/reload"
+1501196730569	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/reload"
+1501196730711	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/cart/reload"
+1501196730910	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196731249	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196731514	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196731790	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196732014	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196767039	Marionette	INFO	Ceased listening
+1501196778865	geckodriver	INFO	Listening on 127.0.0.1:55499
+1501196779940	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501196781556	Marionette	INFO	Listening on port 55513
+1501196781639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501196781803	Marionette	DEBUG	loaded listener.js
+1501196781831	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-27 18:06:21.878 plugin-container[4766:428685] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x903f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 18:06:21.881 plugin-container[4766:428685] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x531f, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 18:06:21.881 plugin-container[4766:428685] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501196782271	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501196782272	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501196790332	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196790900	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196791552	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501196791783	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501196792374	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501196792839	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196792958	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196793146	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196794382	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196796661	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196797240	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196797510	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196797657	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196802861	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196926258	Marionette	INFO	Ceased listening
+1501196932255	geckodriver	INFO	Listening on 127.0.0.1:56479
+1501196933334	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1501196934910	Marionette	INFO	Listening on port 56493
+1501196935009	Marionette	WARN	TLS certificate errors will be ignored for this session
+1501196935140	Marionette	DEBUG	loaded listener.js
+1501196935168	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-07-27 18:08:55.214 plugin-container[4780:429855] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8e3f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 18:08:55.217 plugin-container[4780:429855] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x902b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-07-27 18:08:55.217 plugin-container[4780:429855] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1501196935584	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1501196935584	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1501196937788	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196938532	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196938943	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1501196939154	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1501196939220	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1501196940156	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1501196940471	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196941708	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196943983	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196944633	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196944900	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196945032	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196946721	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196946722	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1501196946863	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1501196947066	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/ads/conversion/970599323/?random=902195712&cv=8&fst=*&num=1&fmt=2&label=Sft5CPnAvVgQm9fozgM&bg=ffffff&hl=en&guid=ON&u_h=1440&u_w=2560&u_ah=1337&u_aw=2560&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://sixpackshortcuts.com/cart/reload&ref=https://sixpackshortcuts.com/desktop/reload/main/step2&tiba=Almost%20Done...&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0&cdct=2&is_vtc=1&ocp_id=knJ6WcOHNtSRBcuHl8AO&random=1315260233&fpvtc=/970599323/%3Frandom%3D1637287834%26cv%3D8%26fst%3D*%26num%3D1%26fmt%3D2%26label%3DSft5CPnAvVgQm9fozgM%26bg%3Dffffff%26hl%3Den%26guid%3DON%26u_h%3D1440%26u_w%3D2560%26u_ah%3D1337%26u_aw%3D2560%26u_cd%3D24%26u_his%3D3%26u_tz%3D-300%26u_java%3Dfalse%26u_nplug%3D0%26u_nmime%3D0%26frm%3D0%26url%3Dhttps://sixpackshortcuts.com/cart/reload%26ref%3Dhttps://sixpackshortcuts.com/desktop/reload/main/step2%26tiba%3DAlmost%2520Done...%26ctc_id%3DCAIVAgAAAB0CAAAA%26ct_cookie_present%3Dfalse%26cdct%3D2%26is_vtc%3D1"
+1501196947068	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/ads/conversion/970599323/?random=902195712&cv=8&fst=*&num=1&fmt=2&label=Sft5CPnAvVgQm9fozgM&bg=ffffff&hl=en&guid=ON&u_h=1440&u_w=2560&u_ah=1337&u_aw=2560&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://sixpackshortcuts.com/cart/reload&ref=https://sixpackshortcuts.com/desktop/reload/main/step2&tiba=Almost%20Done...&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0&cdct=2&is_vtc=1&ocp_id=knJ6WcOHNtSRBcuHl8AO&random=1315260233&fpvtc=/970599323/%3Frandom%3D1637287834%26cv%3D8%26fst%3D*%26num%3D1%26fmt%3D2%26label%3DSft5CPnAvVgQm9fozgM%26bg%3Dffffff%26hl%3Den%26guid%3DON%26u_h%3D1440%26u_w%3D2560%26u_ah%3D1337%26u_aw%3D2560%26u_cd%3D24%26u_his%3D3%26u_tz%3D-300%26u_java%3Dfalse%26u_nplug%3D0%26u_nmime%3D0%26frm%3D0%26url%3Dhttps://sixpackshortcuts.com/cart/reload%26ref%3Dhttps://sixpackshortcuts.com/desktop/reload/main/step2%26tiba%3DAlmost%2520Done...%26ctc_id%3DCAIVAgAAAB0CAAAA%26ct_cookie_present%3Dfalse%26cdct%3D2%26is_vtc%3D1"
+1501196947141	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/reload"
+1501196947590	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/reload"
+1501196947594	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/reload"
+1501196947635	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=d740db4d0d370a82660ebace821948b9"
+1501196947755	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=d740db4d0d370a82660ebace821948b9"
+1501196948083	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/reload"
+1501196948424	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196948756	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196949023	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196949303	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196949533	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196949596	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/reload"
+1501196954802	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 97: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_bundlepack, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 97: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_bundlepack, line 1: ReferenceError: _etmc is not defined
+1501196975127	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1501196980169	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/reload_bundlepack"
+1501196985381	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://sixpackshortcuts.com/assets/admin-new/plugins/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 97: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_doneforyoudiet_03, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 97: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_doneforyoudiet_03, line 1: ReferenceError: _etmc is not defined
+1501196995503	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/reload_doneforyoudiet_03"
+1501197000669	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://sixpackshortcuts.com/assets/admin-new/plugins/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 97: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_acceleratedabs, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 97: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_acceleratedabs, line 1: ReferenceError: _etmc is not defined
+1501197003777	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/reload_acceleratedabs"
+1501197008943	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 97: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_complete2, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 97: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_complete2, line 1: ReferenceError: _etmc is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+console.error: PushService: 
+  Failed to drop expired registrations on idle
+  UnknownError
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1501545389369	Marionette	INFO	Ceased listening
+1502296218954	geckodriver	INFO	Listening on 127.0.0.1:53913
+1502296219046	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1502296220855	Marionette	INFO	Listening on port 53917
+1502296220919	Marionette	WARN	TLS certificate errors will be ignored for this session
+1502296221088	Marionette	DEBUG	loaded listener.js
+1502296221117	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+2017-08-09 11:30:21.171 plugin-container[9039:1966278] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x8f53, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-09 11:30:21.173 plugin-container[9039:1966278] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0x501b, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-08-09 11:30:21.173 plugin-container[9039:1966278] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1502296221554	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1502296221554	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1502296222308	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1502296222683	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1502296223300	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+1502296223483	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+1502296223520	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.youtube.com/embed/AfFQYWDdYws?controls=0&disablekb=1&modestbranding=1&showinfo=0&rel=0&enablejsapi=1&origin=https%3A%2F%2Fsixpackshortcuts.com&widgetid=1&wmode=transparent"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1502296225076	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1502296225365	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502296226605	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502296228862	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502296229536	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502296229822	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502296230005	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1502296232102	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1502296232103	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1502296232542	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.google.com/ads/conversion/970599323/?random=1295783621&cv=8&fst=*&num=1&fmt=2&label=Sft5CPnAvVgQm9fozgM&bg=ffffff&hl=en&guid=ON&u_h=1440&u_w=2560&u_ah=1417&u_aw=2560&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://sixpackshortcuts.com/cart/special/159&ref=https://sixpackshortcuts.com/desktop/reload/main/step2&tiba=Almost%20Done...&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0&cdct=2&is_vtc=1&ocp_id=qDiLWfP_FcLipAPfzpXoDQ&random=3273379660&fpvtc=/970599323/%3Frandom%3D2140328763%26cv%3D8%26fst%3D*%26num%3D1%26fmt%3D2%26label%3DSft5CPnAvVgQm9fozgM%26bg%3Dffffff%26hl%3Den%26guid%3DON%26u_h%3D1440%26u_w%3D2560%26u_ah%3D1417%26u_aw%3D2560%26u_cd%3D24%26u_his%3D3%26u_tz%3D-300%26u_java%3Dfalse%26u_nplug%3D0%26u_nmime%3D0%26frm%3D0%26url%3Dhttps://sixpackshortcuts.com/cart/special/159%26ref%3Dhttps://sixpackshortcuts.com/desktop/reload/main/step2%26tiba%3DAlmost%2520Done...%26ctc_id%3DCAIVAgAAAB0CAAAA%26ct_cookie_present%3Dfalse%26cdct%3D2%26is_vtc%3D1"
+1502296232544	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.google.com/ads/conversion/970599323/?random=1295783621&cv=8&fst=*&num=1&fmt=2&label=Sft5CPnAvVgQm9fozgM&bg=ffffff&hl=en&guid=ON&u_h=1440&u_w=2560&u_ah=1417&u_aw=2560&u_cd=24&u_his=3&u_tz=-300&u_java=false&u_nplug=0&u_nmime=0&frm=0&url=https://sixpackshortcuts.com/cart/special/159&ref=https://sixpackshortcuts.com/desktop/reload/main/step2&tiba=Almost%20Done...&ctc_id=CAIVAgAAAB0CAAAA&ct_cookie_present=false&convclickts=0&cdct=2&is_vtc=1&ocp_id=qDiLWfP_FcLipAPfzpXoDQ&random=3273379660&fpvtc=/970599323/%3Frandom%3D2140328763%26cv%3D8%26fst%3D*%26num%3D1%26fmt%3D2%26label%3DSft5CPnAvVgQm9fozgM%26bg%3Dffffff%26hl%3Den%26guid%3DON%26u_h%3D1440%26u_w%3D2560%26u_ah%3D1417%26u_aw%3D2560%26u_cd%3D24%26u_his%3D3%26u_tz%3D-300%26u_java%3Dfalse%26u_nplug%3D0%26u_nmime%3D0%26frm%3D0%26url%3Dhttps://sixpackshortcuts.com/cart/special/159%26ref%3Dhttps://sixpackshortcuts.com/desktop/reload/main/step2%26tiba%3DAlmost%2520Done...%26ctc_id%3DCAIVAgAAAB0CAAAA%26ct_cookie_present%3Dfalse%26cdct%3D2%26is_vtc%3D1"
+1502296232708	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/159"
+1502296232816	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/159"
+1502296232821	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/159"
+1502296233524	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=648bf5f4ecfaa32e5250273e337b6859"
+1502296233526	Marionette	DEBUG	Received DOM event "pageshow" for "https://ssl.kaptcha.com/logo.htm?m=117600&s=648bf5f4ecfaa32e5250273e337b6859"
+1502296234276	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/159"
+1502296234611	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502296234958	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502296235236	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502296235520	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502296235753	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502296235819	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/special/159"
+1502296241028	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 98: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_bundlepack, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 98: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_bundlepack, line 1: ReferenceError: _etmc is not defined
+1502296261414	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1502296266467	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/reload_bundlepack"
+1502296271684	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://sixpackshortcuts.com/assets/admin-new/plugins/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 98: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_doneforyoudiet_03, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 98: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_doneforyoudiet_03, line 1: ReferenceError: _etmc is not defined
+1502296281798	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/reload_doneforyoudiet_03"
+1502296286959	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://sixpackshortcuts.com/assets/admin-new/plugins/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1502296290479	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483681"
+1502296290480	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483683"
+1502296290481	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483684"
+1502296290482	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483685"
+1502296290489	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/reload_acceleratedabs"
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 98: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_acceleratedabs, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 98: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_acceleratedabs, line 1: ReferenceError: _etmc is not defined
+1502296290791	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/cart/customize/reload_acceleratedabs"
+1502296295729	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 98: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_complete2, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 98: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_complete2, line 1: ReferenceError: _etmc is not defined
+*************************
+A coding exception was thrown and uncaught in a Task.
+
+Full message: TypeError: NetworkError when attempting to fetch resource.
+Full stack: 
+*************************
+1502311507217	Marionette	INFO	Ceased listening
+1509660284088	geckodriver	INFO	Listening on 127.0.0.1:57530
+1509660285160	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1509660285342	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///Applications/Firefox.app/Contents/Resources/omni.ja!/components/addonManager.js:65
+1509660285600	Marionette	INFO	Enabled via --marionette
+2017-11-02 17:04:46.350 plugin-container[8404:2100422] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa03f, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 17:04:46.350 plugin-container[8404:2100422] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa213, name = 'com.apple.CFPasteboardClient'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2017-11-02 17:04:46.350 plugin-container[8404:2100422] void __CFPasteboardSetup() : Failed to allocate communication port for com.apple.CFPasteboardClient; this is likely due to sandbox restrictions
+1509660286686	Marionette	INFO	Listening on port 57536
+1509660286729	Marionette	WARN	TLS certificate errors will be ignored for this session
+1509660286761	Marionette	DEBUG	Register listener.js for window 2147483649
+1509660286780	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1509660287234	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1509660287235	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1509660288348	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1509660289539	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1509660293565	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1509660293857	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509660295079	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1509660295265	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1509660295265	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1509660295549	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1509660295549	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483658"
+1509660295660	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1509660296075	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1509660298342	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509660298837	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509660299148	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509660299278	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1509660301317	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1509660301318	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1509660301482	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483662"
+1509660301909	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/159"
+1509660302413	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/159"
+1509660302714	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509660303024	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509660303282	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509660303545	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509660303770	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509660303819	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/special/159"
+1509660309027	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509660329351	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1509660334383	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/reload_bundlepack"
+1509660339591	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://sixpackshortcuts.com/assets/admin-new/plugins/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_doneforyoudiet_03, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_doneforyoudiet_03, line 1: ReferenceError: _etmc is not defined
+1509660349680	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/reload_doneforyoudiet_03"
+1509660354852	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://sixpackshortcuts.com/assets/admin-new/plugins/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_acceleratedabs, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_acceleratedabs, line 1: ReferenceError: _etmc is not defined
+1509660357943	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/reload_acceleratedabs"
+1509660363117	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_complete2, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_complete2, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_complete2, line 1: ReferenceError: fbq is not defined
+1515437357459	geckodriver	INFO	Listening on 127.0.0.1:60815
+1515437357542	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin with args ["-marionette"]
+1515437357948	Marionette	INFO	Enabled via --marionette
+2018-01-08 12:49:18.668 plugin-container[17080:5913990] *** CFMessagePort: bootstrap_register(): failed 1100 (0x44c) 'Permission denied', port = 0xa247, name = 'com.apple.tsm.portname'
+See /usr/include/servers/bootstrap_defs.h for the error codes.
+2018-01-08 12:49:18.668 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.669 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.669 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.669 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.670 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.670 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.670 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.670 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.671 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.671 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.671 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.671 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.672 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.672 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.672 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.672 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.672 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.672 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.673 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+2018-01-08 12:49:18.674 plugin-container[17080:5913990] CFPasteboardRef CFPasteboardCreate(CFAllocatorRef, CFStringRef) : failed to create global data
+1515437359038	Marionette	INFO	Listening on port 60819
+1515437359129	Marionette	WARN	TLS certificate errors will be ignored for this session
+1515437359175	Marionette	DEBUG	Register listener.js for window 2147483649
+1515437359188	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1515437359620	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1515437359620	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1515437360729	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1515437361515	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483656"
+GVA info: Successfully connected to the Intel plugin, offline Gen9 
+1515437362919	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1515437363170	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515437364464	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1515437364657	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1515437364657	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/reload/main/index/index"
+1515437364798	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483653"
+1515437364852	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1515437365727	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1515437375973	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515437376485	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515437376742	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515437376893	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1515437378995	Marionette	DEBUG	Received DOM event "pagehide" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1515437378995	Marionette	DEBUG	Received DOM event "unload" for "https://sixpackshortcuts.com/desktop/reload/main/step2"
+1515437379220	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "2147483659"
+1515437379496	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://sixpackshortcuts.com/cart/special/159"
+1515437381113	Marionette	DEBUG	Received DOM event "pageshow" for "https://sixpackshortcuts.com/cart/special/159"
+1515437381403	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515437381724	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515437381994	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515437382262	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515437382490	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515437382542	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/special/159"
+1515437387749	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 135: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_bundlepack, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 135: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_bundlepack, line 1: ReferenceError: _etmc is not defined
+1515437408064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1515437413098	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/reload_bundlepack"
+1515437418310	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+JavaScript warning: https://sixpackshortcuts.com/assets/admin-new/plugins/jquery-1.10.2.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 135: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_doneforyoudiet_03, line 1: ReferenceError: _etmc is not defined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-TFPSWP2, line 135: uncaught exception: [object Object]
+JavaScript error: https://sixpackshortcuts.com/cart/customize/reload_doneforyoudiet_03, line 1: ReferenceError: _etmc is not defined
+1515437428407	Marionette	DEBUG	Received DOM event "beforeunload" for "https://sixpackshortcuts.com/cart/customize/reload_doneforyoudiet_03"
+1515437433573	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
